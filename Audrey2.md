@@ -1,3 +1,7 @@
+---
+author: Tsurubaso
+---
+
 # Audrey 2
 ## Auteur : Tsurubaso
 

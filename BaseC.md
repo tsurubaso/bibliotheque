@@ -1,3 +1,7 @@
+---
+author: Tsurubaso
+---
+
 # Base C
 ## Auteur : Tsurubaso
 test

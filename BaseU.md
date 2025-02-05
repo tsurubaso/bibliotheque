@@ -1,3 +1,7 @@
+---
+author: Tsurubaso
+---
+
 # U base
 ## Auteur : Tsurubaso
 

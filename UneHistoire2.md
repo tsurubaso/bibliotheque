@@ -1,3 +1,7 @@
+---
+author: Tsurubaso
+---
+
 # Une Histoire sans l’histoire 2
 ## Auteur : Tsurubaso
 

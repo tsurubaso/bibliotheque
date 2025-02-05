@@ -1,3 +1,7 @@
+---
+author: Tsurubaso
+---
+
 # Trois touristes T
 ## Auteur : Tsurubaso
 

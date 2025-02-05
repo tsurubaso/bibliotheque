@@ -1,3 +1,6 @@
+---
+author: Tsurubaso
+---
 
 # Base G
 ## Auteur : Tsurubaso
