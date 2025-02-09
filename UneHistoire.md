@@ -1,12 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Une Histoire sans l’histoire 
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: UneHistoire
+lecture: 1
 ---
 
 # Une Histoire sans l’histoire 
 ## Auteur : Tsurubaso
-
-![Image1](/images/800400.png)
-
 
 
 Il est difficile de visualiser le futur. Personnellement j’aime m’y perdre. Souvent je n’invente rien. J’assemble des idées, je fouille, je réunis. C’est peut-être ma chance ou bien le contraire mais en ce moment j’ai du temps. Je ne vous dirai pas pourquoi mais j’ai beaucoup de temps ou est-ce que je le vole ce temps. Temps perdu retrouvé. En tout cas, je me suis promené dans mes idées et j’ai établi ce que sera notre beau et glorieux futur sur je ne sais pas…En tout cas jusqu’en 2225. Rien de moins. Mon problème et il est de taille est que je n’ai pas l’histoire, le plot.

@@ -1,11 +1,17 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base M
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseM
+lecture: 1
 ---
 
 # Base M
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 
 
 C’est drôle, toujours il préparait des notes, réunissait des documents, cherchait pendant des jours pour réunir suffisamment de matière. Sans être spécialiste, il se passionnait, tombait amoureux du nouveau sujet: opéra Garnier, Las Vegas, design arachnoïde, Nadar, l'histoire de l'aviation. Ses recherches finies, quand il avait assez de matière pour faire vivre le récit, quand venait le moment de réintégrer le tout dans son histoire. Il se disait toujours, “il faudrait aussi que je parle de « ça »”. Et ce « ça », progressivement prenait le pas, faisait tout pencher et finalement lentement, il glissait dans la parenthèse qui surnageait sur le sujet premier, sans rien avoir préparé. Il abandonnait tout son travail comme on jette les feuilles de brouillon d’une rédaction à la sortie de l’amphithéâtre, Victorieux ou vaincu, loin maintenant. 

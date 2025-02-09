@@ -1,11 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base G
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseG
+lecture: 1
 ---
 
 # Base G
 ## Auteur : Tsurubaso
-
-![Image1](/images/800400.png)
 
 On écrit souvent pour faire vivre quelque chose d’amusant, drôle, de réjouissant. Ce qu’on a en soi et qui nous fait du bien. Enfin, le faire sortir, le partager, quelques couleurs qu’il ait, procure une détente.
 Stephen King terrifie mais en même temps dans l’horreur on retrouve le goût si particulier d’un passé dans lequel on a été enfant.

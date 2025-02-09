@@ -1,12 +1,17 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base C
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseC
+lecture: 1
 ---
 
 # Base C
 ## Auteur : Tsurubaso
-test
 
-![Image1](/images/800400.png)
 
 Quand on pense à un monde différent du nôtre, sur une autre terre, planète ou satellite, on imagine la perfection et l’ordre. 2001, le monde d’Edena, Zardoz. Le film avec Stallone et Sandra Bullock. Un monde ordonné progressivement détruit par l’entropie bordélique humaine, se transformant en ce que nous connaissons mieux, le désordre.
 Barbie,2001, images d’ordre et de rigueur. Pieuse pierre angulaire, anguleuse mais surtout tombale d’une colonisation bien humaine. De cette image d’ordre par trop rigoureuse, il y a le reflet du bordel d’Amsterdam, la prostituée à 3 seins, le mutant peu enclins à la paternité, le désordre sombre, la crasse cyberpunks comme le jeu, l’Incal mais du côté de la Cité-puit. En fait, je doute qu’on puisse se laisser aller au graffiti, aux grèves, et aux révoltes plus ou moins ouvertes à l’« Expanse ». C’est la télé, c’est l’Angleterre travailliste aux prises à d’anciens privilèges.

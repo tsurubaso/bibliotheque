@@ -1,5 +1,12 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Audrey
+type: SF Futuristique
+description: bla bla
+status: draft
+link: Audrey1
+lecture: 1
 ---
 
 
@@ -8,7 +15,6 @@ author: Tsurubaso
 # Audrey
 ## Auteur : 
 
-![Image1](/images/800400.png)
 
 Audrey
 Première Partie

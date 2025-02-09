@@ -1,13 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base B
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: draft
+link: BaseB
+lecture: 1
 ---
 
 # Base B
 ### Auteur : Tsurubaso
-
-
-![Image1](/images/800400.png)
-
 
 Il était assis sur un tas de pierres. Il regardait devant lui la cime des arbres qu’il surplombait. C’était un de ces tas de pierres qu’on trouve au bord des champs, devant un bosquet ou une forêt. Ceux dont on fait des murets. Frontière de bocages. Ce n’était pas des gros silex sortis de terre, traîtres pour la moissonneuse, théâtre de diamants enfouis quand on les casse, cliquetis de reflets. Les silex ne contiennent que des géodes, des cristallisations, très très rarement des fossiles, Ça reste joli aux yeux d’un mioche. Quand on est grand aussi mais on sait que c’est courant et sans valeur.
 Dans ce tas, pas de serpent qu’il faut effrayer en appuyant fortement de son poids chaque pas, pas de criquet, pas non plus de chaleur assommante de l’été, et la prairie ou plutôt le petit plateau qui surmontait cette forêt n’avait pas ce rideau d’insectes qui montent et descendent sans raison pour nous dans la lumière rasante d’un soleil jaune couchant. Mouvement permanent de prairie de montagne. Un vent léger secoua ses cheveux, il souriait en fermant les yeux, heureux de la morsure de ce pâle soleil qu’on ne distinguait pas, trop haut.

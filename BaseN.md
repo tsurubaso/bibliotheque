@@ -1,11 +1,17 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base N
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseN
+lecture: 1
 ---
 
 # Base N
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 
 
 Bon, il n’avait pas de conclusion. Toujours le dos courbé. L’écran allumé cette fois sur un  « Purpose of request for proposal »

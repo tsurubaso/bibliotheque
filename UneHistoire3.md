@@ -1,11 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Une Histoire sans l’histoire 3
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: UneHistoire3
+lecture: 1
 ---
 
 # Une Histoire sans l’histoire 3
 ## Auteur : Tsurubaso
-
-![Image1](/images/800400.png)
 
 
 Notes sur une vie ailleurs:

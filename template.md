@@ -1,6 +1,14 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Une Histoire sans l’histoire 3
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: template
+link: template
+lecture: 1
 ---
+
 
 # Base A
 ## Auteur : Tsurubaso
@@ -52,6 +60,7 @@ Here's another placeholder:
 3. 番号付きリスト3
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=633387442857850" height="700" width="345" frameborder="2" scrolling="no" ></iframe>
+
 
 **太字**
 *斜体*

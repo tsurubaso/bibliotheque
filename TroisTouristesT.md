@@ -1,11 +1,17 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Trois touristes T
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: TroisTouristesT
+lecture: 1
 ---
 
 # Trois touristes T
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 Il faisait affreusement froid. Nous étions, c’est-à-dire le cratère et l’hôtel qui se trouvait à un de ses bords, le Torricelli casino Palace, dans la mer de la tranquillité. Nous étions en plein jour lunaire et nous devions avoir encore 6 jours terriens de cette resplendissante splendeur qui l’aveuglait. Clarté brillante que des filtres savants permettaient de réduire en intensité et en puissance mais malgré tout l’effort d’ingéniosité humaine on sentait la force des rayons solaires à travers les 3 m d’épaisseur du vitrail par lequel on pouvait voir décoller et atterrir les navettes de toute forme qui par la suite s’enfonçaient dans un mystérieux sous-sol. Il était protégé de l’extérieur et d’une cuisson thermostat fournaise par cette épais hublot. Contrecoup inévitable Sato san se vengeait sur la télécommande de l’air conditionné. Le choc thermique aurait pu tuer. I’énergie dépensée dans son égoïsme était conséquent. Sato san était mince et comme c’est chiens au pelage majestueux, une fois tondu ou mouillée, toute magie disparaissait. 
  Une fois sa glorieuse veste de Salary Man enlevée, ou le cas échéant, sa chemise hawaïenne colorée, on était confronté à un homme qui allait sous peu rentrer dans le monde sans gloire de la soixantaine. Il n’était pas un gros, ni musclé. Il était juste là et malgré cette absence de graisse ou de muscles, il ne pouvait vivre sans un climatiseur extérieur poussé dans ses derniers retranchements. Beaucoup avait en vain essayé de comprendre cette résistance surhumaine au thermostat polaire en plein cagnard, choc thermique violent. Rien n’y faisait. Il se souciait peu d’où provenait l’électricité. Il avait aussi oublié que près de 200 ans auparavant mais là je suis désolé je n’ai pas les dates exactes. C’est cette électricité et cette chaleur mêlé à beaucoup d’égoïsme qui avait provoqué cette crise qui avait jamais changé le monde.
 Cela avait été cette sacro-sainte volonté de ne pas suer, de ne pas exposer son maquillage à une fonte forcée qui avait malgré les badges multicolores SDG plonger le Japon dans une des plus grande crise économique que l’Asie avait connu au début du XXIe siècle. Une crise aux dimensions XXL que je n’aborderai pas dans les détails mais la dette abyssale, qui bloquait les taux d’intérêts sur un 0 ravageur, les investisseurs fuyant l’île vieillissante où il ne faisait pas bon entreprendre, le Yen avait fini par chuter sans réelle raison de remonter la pente. Pas d’investissements, d’innovation technologique des entreprises qui produisait au ralenti et une armée résigné tout en étant persuadé de ce supériorité naturelle, une armée de Sato san. Mais ce peuple n’aimait pas l’atome à cause de quelque chose en 2011 et malgré des investissements au préalable important n’était pas en mesure de produire suffisamment d’électricité verte. Rester l’or noir qu’on achetait comme on pouvait.

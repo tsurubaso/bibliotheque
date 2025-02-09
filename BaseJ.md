@@ -1,12 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base J
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseJ
+lecture: 1
 ---
-
 
 # Base J
 ## Auteur : Tsurubaso
-
-![Image1](/images/800400.png)
 
 Des spots éclairaient l'intérieur, les filles allaient de piliers en piliers. Elles furent toutes appelées au centre près de l’autel, le contremaître utilisait le socle commun promontoire.
 Suivi une explication longue, précise, des différentes fonctions et attributions. Elles devaient effectuer les vérifications de sécurité d’usage avant la réouverture. Cela ne devrait pas poser trop de problème, les restaurants n'avaient été fermés que quelques jours et aucun gros problèmes sanitaires n’avait été signalé. En tout cas rien qui concernait les radiations.

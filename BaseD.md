@@ -1,13 +1,18 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base D
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseD
+lecture: 1
 ---
-
 
 
 # Base D extraits
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 La ville avait grandi. Elle avait étendu son réseau souterrain de veinules. Les tunneliers et les foreuses s’étaient détournés de ce site. L'agitation et l’intérêt, la tension et la curiosité qu’avait dû attirer cet espace avait été étouffé par les circonstances.
 Une crise politique grave sur terre avait provoqué une accélération de la colonisation, une augmentation des programmes spatiaux de déplacement. La terre connaissait une nouvelle période d’euphorie, la natalité avait depuis 50 ans explosé. Les plus aventureux regardaient vers le ciel. La population du satellite avait augmenté elle aussi.
 Par conséquent, la mise en chantier d’autres villes le plus rapidement possible devenait une nécessité. Ce lieu ouvert et déjà bâti était bon à prendre. Son origine importait peu. Il fallait construire, bâtir, étendre et vite. L’attention s’en était allée ailleurs pour la grande joie du promoteur immobilier responsable de cette zone.

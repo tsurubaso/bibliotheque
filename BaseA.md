@@ -1,15 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base A
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseA
+lecture: 1
 ---
 
 # Base A
 ### Auteur : Tsurubaso
-
-
-![Image1](/images/800400.png)
-
-
-
 
 L’essentiel du forage se faisait par ces machines. Il y en avait un nombre toujours évoluant au gré des années, au gré des chantiers, au gré des réparations. Solides et résistants, ces robots allaient du tunnelier, souvent le dernier à intervenir, aux foreuses en passant par d’autres modèles intermédiaires. Pour la Foreuse, les designers de ce monstre avait dû être touché par la grâce. Lycosa Tarantula, Theraphosa Blondi, Salticidae.
 Une Marie en grand drapé, Chapelle Sixtine, de dos mais la forme des épaules est un peu bizarre. On passe de l’ombre à la lumière. On contourne l’œuvre. Enfin on voit un visage inhumain et l’enfant Jésus s’enfuit sur huit pattes.

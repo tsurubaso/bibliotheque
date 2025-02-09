@@ -1,11 +1,17 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base L
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseL
+lecture: 1
 ---
 
 # Base L
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 
 Un garçon plongé dans sa lecture dans une couchette poser dans une prairie. Plutôt un lit. On devine une reconstruction Led faites pour donner plus d’espace. Colline qui surplombe une ville portuaire de petite taille. Quelque part au Japon peut-être. Au loin sur cette océan un pétrolier avance dans les reflets de soleil.
 Une conversation animée entre des jeunes 16, 17 ans. garçons et filles autour d’une table métallique de cantine. Conversation vive, enjouée, des sourires, des rires. Filles à droite, les garçons à gauche. La cantine est animée, des familles. La scène change, une douche quelque part. Garçons et filles ensemble. Ce sont des adultes, pas de gêne. Les filles sont musclées, les hommes également sans excès. Une fille claque le dos d’un garçon qui simule pour faire rire les filles, une douleur excessive. Assez de vapeur pour qu’on ne puisse rien voir.

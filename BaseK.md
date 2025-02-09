@@ -1,12 +1,18 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base K
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseK
+lecture: 1
 ---
 
 
 # Base K fragments
 ## Auteur : Tsurubaso
 
-![Image1](/images/800400.png)
 Il était venu boire un verre d’eau. Il avait mal à la tête, les deux garçons qui sortaient en poussant cette porte si bruyante ne firent pas attention à lui.   
 –Tu savais que si c’est nécessaire, en dernier recours, on peut dépressuriser la serre et tout le contenu est évacué dans l’espace, derrière les réacteurs.
 Tao était toujours avec son copain Jean, amoureux de Latake, la grande brune du Lys blanc et Katia qui était bien plus jolie semblait juste exister. Elle avait de l’humour et répondait toujours avec justesse à ses terribles blagues. Grand, mince, un semblant de confiance en lui qui cachait beaucoup d’incertitudes. Il parlait beaucoup comme tous les timides. Il ne savait pas se taire ou rester dans des silences pesant. Tous les quatre étaient venus à la bibliothèque pour étudier l’histoire du XXIe siècle.

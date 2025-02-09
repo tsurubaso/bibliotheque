@@ -1,11 +1,16 @@
 ---
-author: Tsurubaso
+illu_author: null
+text_author: Tsurubaso
+title: Base R
+type: SF Futuristique
+description: "bla, bla bla bla"
+status: story
+link: BaseR
+lecture: 1
 ---
 
 # Base R
 ## Auteur : Tsurubaso
-
-![Image1](/images/800400.png)
 
 
 Il y a toujours de bonnes raisons à nos cauchemars. Ça ne vous arrive jamais de faire un rêve qui  sur le coup ne vous occupez pas l’esprit, c’est un cauchemar, il a son monstre toutefois les choses ont des proportions raisonnables, un petit rêve aux manifestations inquiétantes. Un de ses rêves désagréables assez vite oubliés. Une fois éveillé avec le temps vous y repenser et la petite gêne grandit. Dans le rêve, le monstre ne vous préoccupait pas, plutôt les saletés qu’il avait laissé derrière lui, petite particules blanches. Comme si vous étiez habitués de la chose et ça vous faisait pas plus grande impression. Vous repensez encore et encore à votre rêve et l’aspect terrifiant est horrible vous apparaît. Vous bousculiez le monstre sans ménagement pour réunir et éviter que se répandent ces parts vivantes et mobiles. Dans votre rêve vous n’étiez pas du tout effrayé, aucune peur. Pour vous, c’est s’occuper d’un chiot encore un peu sale.
