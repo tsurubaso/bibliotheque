@@ -13,10 +13,7 @@ lecture: 1
 
 
 # Audrey
-## Auteur : 
 
-
-Audrey
 Première Partie
 
 Avant-propos

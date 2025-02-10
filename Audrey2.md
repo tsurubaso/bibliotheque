@@ -9,9 +9,7 @@ link: Audrey2
 lecture: 1
 ---
 # Audrey 2
-## Auteur : Tsurubaso
 
-Audrey
 Deuxième Partie
 
 La page blanche
