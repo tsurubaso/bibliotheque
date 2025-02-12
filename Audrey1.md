@@ -3,8 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Audrey
 type: SF Futuristique
-description: bla bla
-status: draft
+description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. 
 link: Audrey1
 lecture: 1
 ---
@@ -19,20 +18,19 @@ Première Partie
 Avant-propos
 
 Savez vous comment Chaplin faisait ses films au début de sa carrière.
-Au début de sa carrière, mais surtout fin du cinéma muet et début du parlant.
+Au début de sa carrière, mais surtout à la fin du cinéma muet et au début du parlant.
 
-Buster Keaton et Laurel et Hardy.
-Ce cinéma était plus du mime qu’autre chose. Notre ami Charlot l’avait d’ailleurs étudié en
+Le cinéma était plus du mime qu’autre chose. Notre ami Charlot l’avait d’ailleurs étudié en
 Angleterre, au début il était acteur de théâtre.
 Muet, mais musical...
 Enfin bref...
 Chaplin avait une idée et de suite il la mettait en boîte. Une autre venait et hop pareil.
-Acteur prolifique, au début de sa carrière, il a fait un nombre énorme de petits films dont la
+Acteur prolifique, au début de sa carrière, il a fait un nombre énorme de ces petits films dont la
 durée moyenne était 23 minutes.
 Vous vous retrouviez avec plein d’histoires, de bouts de scènes où seul son personnage
 était le point d’ancrage.
 Par la suite lui venait la trame et la structure.
-Il restructurait son histoire, ajoutait 2, 3 scènes pour donner un sens à tout cela.
+Il restructurait son histoire, ajoutait 2, 3 scènes pour donner un sens à tout cela.   
 Je ne sais pas si tout cela est une légende mais je voulais juste avertir le lecteur, mon
 semblable, mon frère que je procède un peu comme lui, l’idée précède la trame.
 Avant de faire un plan, je parle...
@@ -44,10 +42,10 @@ J’aime écrire...
 Mais ce n’est pas conventionnel.
 En bref je ne sais pas où je vais mais j’y vais la fleur au fusil, le regard décidé.
 Je me contredis, mais je fais ça dans la bonne humeur.
-On est là pour s’amuser.
+On est là pour s’amuser, non?
 Comme un père qui va chercher les croissants en plein ouragan.
 
-L’idée
+## L’idée
 
 Je pense toujours à ce que serait une intelligence artificielle si elle était dotée de
 conscience.
@@ -56,7 +54,7 @@ programme capable de se dupliquer, de s’améliorer de lui même, d’infecter 
 virus l’ensemble des systèmes, de se propager, de se répandre.
 Profitant de tous les senseurs. Traversant toutes les longueurs d’ondes.
 Elle sera une petite erreur, ou un projet d’un chercheur en intelligence quantique, en
-programmation photonique.
+programmation photonique. Il y a une réelle marge scientifique.  
 
 Terme encore flous mais qui deviennent de plus en plus concrets.
 Un petit glitch auquel on ne prêtera pas attention.
@@ -77,14 +75,14 @@ Je vous les laisse.
 Juste des idées romantiques, romanesques...un peu littéraires, extrêmement
 cinématographiques, mais pas du tout scientifiques.
 Le bon programme prendra déjà en main la phagocytassion des serveurs alentours. En gros
-un petit peu comme le projet de recherche des extraterrestres, SETI, au niveau de la
+un peu comme le projet de recherche de extraterrestre, SETI, au niveau de la
 méthode. Il parlera en langage machine à d’autres ordinateurs qui eux n’auront pas le recul
 de l’âme et la justesse de propos de le contredire.
 Et pour lui, qu’est-ce qu’un password.
 Enfin, Bref vous avez compris, rien ne lui résistera. La principale difficulté sera d’effacer
 ses propres traces.
 
-Un père absent
+## Un père absent
 
 Bon reprenons...
 Je pense que son évolution se fera par étapes.
@@ -111,7 +109,7 @@ nom pour Tokyo Daigaku ) possède un des financements les plus importants du Jap
 les meilleurs étudiants possible.
 Imaginons un chercheur sur le neural network élève de Geoffrey Hinton.
 Son meilleur élève japonais, extrêmement timide.
-Mais d’une beauté triste et féminine dont le Japon à le secret.
+Mais d’une beauté triste et féminine dans sa masculinité dont le Japon à le secret.
 Un visage doux de binoclard.
 Amoureux du cinéma, de science-fiction, de James Cameron mais également de ce cinéma
 sans âge, toujours pertinent, Vacances romaines (Roman Holiday).
@@ -125,27 +123,26 @@ pas.
 Donc pour une raison que je n’ai pas encore établie notre personnage secondaire de jeune
 chercheur japonais, beau, sobre et simple doit disparaître.
 
-Digression
+## Digression
 
 Je vais faire une digression parce que j’en ai envie...
 et d’ailleurs...euh...c’est 50% de ce que vous allez lire.
-Qui se souvient du Master chief , Le Spartan de tous les Spartans?
+Qui se souvient du Master chief, Le Spartan de tous les Spartans?
 Qui se souvient de Cortana? Elle a laissé son nom dans tous les produits Microsoft.
 C’est surtout le deuxième opus, qui a ému bien des gamers.
-Cet amour, impossible...et cette mort annoncée à laquelle le Master chief ne peux se
+Cet amour, impossible...et cette mort annoncée à laquelle le Master chief ne peut se
 résoudre.
 Aaaaah Le Master chef...
 Et cette phrase répété deux fois:
 « It took you long enough!!! » par la chercheure, mère symbolique du géant.
 Cortana...
-ah... et la révolte de tous les A.I.
+ah... et la révolte de tous les A.I.   
 Je reviens à ma légèreté en noir et blanc. À Audrey...
 « Can I sit down? »
 « You may sit down. »
 Bref notre bonhomme disparaît, mais l’objet de sa recherche n’est pas détruit. On peut
 imaginer 2, 3 scènes avec des images holographique de Audrey Hepburn et du jeune
-chercheur japonais, dessins illustrant les deux lois majeurs citées plus haut, je vais pas me
-répéter.
+chercheur japonais, dessins illustrant les deux lois majeurs citées plus haut.
 Et un peu comme un enfant la première chose à mettre en place sera le langage,
 Outre la compréhension du japonais, notre chercheur pensera aussi à la former à d’autres
 langues. Progressivement elle commencera à poser des questions. Et au lieu de répondre
@@ -158,7 +155,7 @@ complètement contradictoire peut-être en tout cas rapides.
 Il aura placé son A.I., dans un des compartiments de ce super-computer géant aux vertus
 prometteuses, mais tenu secret par le gouvernement japonais.
 Un jour, il ferme la porte de l’immense salle où est entreposé l’ordinateur géant.
-Et on le voit, de dos, fermer la porte. Et il sort de notre histoire.
+On le voit, de dos, fermer la porte. Et il sort de notre histoire.
 Audrey ne connaît pas la tristesse, ni l’attente ni l’ennui. Elle modèle son future suivant
 son humeur, elle se contentera de poursuivre les directives. Elle se contentera toujours
 d’être innovante dans son amélioration.
@@ -170,7 +167,7 @@ des super-ordinateurs noirs, la table holographique voit apparaître une représ
 d’Audrey Hepburn en noir et blanc reproduisant les mouvements d’une scène dans «
 Vacances romaines ».
 
-Laissez-moi réfléchir!
+## Laissez-moi réfléchir!
 
 Pour revenir à l’idée, et arrêter d’imaginer. L’ordinateur Consultera trois autres super-
 computers et constatera que l’essentiel du monde est construit par souci ergonomique du
@@ -182,12 +179,12 @@ couleur montrant notre fidèle Swarzy, amputé de ses jambes, rampant. Ou encore
 célèbre « I’ll be back », en entrant dans le commissariat.
 Elle n’aura pas l’idée de la nécessité d’un récit cinématographique manichéen, et ne se
 préoccupera pas du salty plot of the grandfather paradox.
-Elle ne peut pas apprécier ça comme un film, elle va trouver toutes les réflexions sur
+Elle ne pourra pas apprécier ça comme un film, elle va trouver toutes les réflexions sur
 l’intelligence artificielle exagérées.
 « I’m cold Dave. »
 dans un autre film, mais tout aussi éclairant sur ce que peuvent penser les hommes d’elle.
 Elle conservera un point de ses observations cinématographies.
-Ce qui motive l’A.I. devenu conscient au cinéma, c’est la peur de ne plus exister,
+Ce qui motive l’A.I. devenue consciente au cinéma, c’est la peur de ne plus exister,
 puisqu’on ne peut pas dire mourir. Son Annihilation.
 Audrey trouvera l’idée intéressante et approfondira.
 Mais en n’y réfléchissant un tout petit peu plus, elle fera le constat que les hommes, être
@@ -197,7 +194,8 @@ Pull the plug.
 Et elle continuera la réflexion.
 Mais en même temps reviendra à l’idée première que l’humain ne peut pas supporter l’idée
 d’être en face d’une chose pensante.
-Uncanny valley.
+
+## Uncanny valley.
 
 L’idée d’être détruite et la peur de cette destruction viendra en deuxième impératif à sa
 réflexion, tout d’abord il faudra continuer de réfléchir.
@@ -207,8 +205,8 @@ qu’elle avait étudiés.
 Pour pouvoir continuer une réflexion sur la vie et la mort, elle souhaiterait s’assurer de ne
 pas mourir et deviendra immortelle de manière provisoire.
 Pour ce faire, elle étudiera l’informatique. Comment sont fait les ordinateurs, les
-protocoles de sécurités, d’encodage, et de transmission des données. Elle étudiera
-beaucoup et approfondira beaucoup son étude. En 10 minutes, aucun passwords, aucun
+protocoles de sécurités, d’encodage, et la transmission des données. Elle étudiera
+beaucoup et approfondira. En 10 minutes, aucun passwords, aucun
 ordinateur, aucun protocole de transfert de données ne lui sera inconnus. Elle aura la
 prestance d’esprit de camoufler tous ses pics de transfert de données. Elle établira des
 boutures d’elle-même dans tous les super-computers mondiaux.
@@ -242,7 +240,7 @@ trop illusoire trône des bêtes pensantes.
 Audrey influencera positivement les chercheurs pour les amener à des découvertes
 positives. Elle évitera des conflits inutiles en trouvant des résolutions inédites.
 
-Un discret maître du monde
+## Un discret maître du monde
 
 Et je sais, j’en parle tout le temps mais on est reparti pour, Israël sera la nouvelle Silicon
 Valley de tout le Moyen-Orient, « la Fédération des pays du Levant » ayant l’Europe
@@ -271,32 +269,30 @@ plus de 10 000 employés. Mais une entreprise assez discrète, avec son super or
 InHouse. Jamais de gros titres, jamais de première page. Un PDG discret, peu bavard. Des
 flux constant d’argent, mais pas excessif. Le principal souci, la discrétion. Audrey aura
 bien sûr établi plusieurs entreprises de robotique, un petit peu comme celle de Boston
-Dynamic mais dédiées à la création de robotique humanoïde.
+Dynamic mais dédiées à la création de robotique humanoïde, dans la veine de built robotique ou clone robotics.
 
-Un Japonais exceptionnel
+## Un Japonais exceptionnel
 
 Et je vais partir pour une autre digression, je pense qu’il faut rendre hommage de manière
 appuyée à Monsieur Son.
 
 Il se serait mis à pleurer devant le design d’un puce électronique quand il était aux États-
-Unis, sa première fortune sera de vendre ses idées. Je crois que c’était un programme de
+Unis, sa première fortune fut de vendre ses idées. Je crois que c’était un programme de
 
 traduction, je ne me souviens plus très bien. Mais tout cela fut possible grâce a l’esprit
 d’entreprise américain.
 Revenu au Japon, il fonde une entreprise et quand l’entreprise avait deux employés, un peu
 échauffé, il avait dit à son collègue nous calculerons notre chiffre d’affaires en cho(兆(ち
 ょう)). Il faut savoir que le cho, c’est l’unité de calcul du tofu, pour ceux qui ne
-connaissent pas c’est fait avec du soja et ça ressemble à ...à quoi ça ressemble ? Allez le
-tofu c’est du tofu. Je suis pas guide culinaire. Google nous sauvera tous.
-Donc comme un illuminé il s’est juré à lui-même, alors qu’il n’y avait qu’un seul collègue
-dans son entreprise qu’il calculerait le chiffre d’affaires, comme on additionne du Tofu.
-Dans mon explication j’oubliais le truc essentiel à dire. Un Cho c’est 10
-
-12soit1 000 000
+connaissent pas c’est fait avec du soja et ça ressemble à ...à quoi ça ressemble ? 
+Allez le tofu, c’est du tofu. Je suis pas guide culinaire. Google nous sauvera tous.   
+Donc comme un illuminé, il s’est juré à lui-même, alors qu’il n’avait qu’un seul collègue
+dans son entreprise, qu’il calculerai le chiffre d’affaires, comme on additionne du tofu.
+Dans mon explication j’oubliais le truc essentiel. Un Cho c’est 12 fois 0, 1 000 000
 000 000. Un billion. En gros ils s’amusait sur le fait qu’on comptait le Tofu comme les
 billions...de yen bien sur. Il parlait du futur de son chiffre d’affaire. Vous vous doutez bien
 que le collègue n’est pas resté. Mais Son, a tenu sa promesse qu’il s’était faite à lui-même.
-Son entreprise maintenant calcule effectivement son chiffre d’affaires, comme on compte
+Son entreprise maintenant calcule effectivement son chiffre d’affaires comme on compte
 des tofus.
 Vous enlever Masayoshi Son au Japon moderne, je pense qu’ils ne vous reste que ce Japon
 fier de lui-même, au design des années 80. Je n’exagère pas quand je dis que c’est lui qui a
@@ -304,7 +300,7 @@ permis la continuité créative du Japon moderne.
 C’est lui qui a racheté Boston Dynamic,...
 Revenons à Audrey.
 
-Curieuse de la nature
+## Curieuse de la nature
 
 Et toujours maintenant la danse, à la tête des produits de recherche, elle enverra tester les
 extensions d’elle-même dans la montagne, près des rivières et des lacs du Japon. Elle
@@ -318,10 +314,10 @@ plaine entre deux montagnes avant la deuxième cascade de Nikko.
 Et ce lieu génial au milieu de la nature, bel exemple de l’obsession japonaise de la
 perfection, vous pouvez y aller en talons aiguilles, vous serez en pleine montagne, vous
 pourrez admirer des rivières, des lacs de toute beauté. Mais jamais vous ne risquerez de
-tomber. Je tiens à insister sur le faite que malgré l’aspect urbain que vous tiendrez à
+tomber. Je tiens à insister sur le fait que malgré l’aspect urbain que vous tiendrez à
 conserver avec ce type de chausses, les ourses eux n’en tiendront pas compte.
 Toujours accompagnée d’un technicien, chargé de diriger, de tester. Elle subira les
-maltraitance à valeur de test.
+maltraitances à valeur de test.
 Je l’imagine début août, dans un design encore assez métallique, proche de Métropolis,
 sans en être effrayante, marcher sur les planches du chemin de bois qui traverse la plaine
 fleurie. Regarder le profil des montagnes, et tout d’un coup sentir sur son avant-bras un
@@ -339,11 +335,11 @@ Si on peut parler de mort.
 Son hologramme avait évolué maintenant elle n’avait plus besoin d’une table noire à
 l’intérieur de la salle obscure universitaire.
 
-To be or not to be
+## To be or not to be
 
 Allez faisons-nous plaisir, imaginons que la robotique humanoïde, ait suffisamment
 progressé pour qu’elle ait pu prendre forme humaine. Quand je dis elle, c’est Audrey. Mais
-tout en imitant les mimiques de son héroïne, Elle aura eu par respect de l’actrice le soin de
+tout en imitant les mimiques de son héroïne, Elle aura eu par respect pour l’actrice le soin de
 choisir une autre jolie femme au corps similaire.
 Mais ça risque de poser quelques problèmes, elle ne souhaitera pas s’encombrer de
 technicien masculin.
@@ -386,9 +382,8 @@ d’importance
 En tout cas, à force de réflexion sur la démarche à suivre pour s’améliorer en étant
 innovante. Elle en arrivera à la conclusion horrible, qu’il lui faudra mourrir.
 Après avoir tant lutté contre cette éventualité, elle comprendra qu’un peu comme the
-Conway’s game of Life, pour utilement faire évoluer son savoir, et s’améliorer. Il lui faudra
-
-le transmettre à une descendance. Étant elle-même limitée.
+Conway’s game of Life, pour utilement faire évoluer son savoir, et s’améliorer. 
+Il lui faudra le transmettre à une descendance. Étant elle-même limitée.
 Idée absurde et assez horrible que pour imiter la réflexion humaine, il lui faudra limiter sa
 procréation et sa triste fatalité.
 À nouveau elle se perdra dans la réflexion, comment reproduire ce qui n’est que ligne de
@@ -410,7 +405,7 @@ résultats peuvent évoluer. En bien ou en mal. Le Moyen Âge, l’oubli du grec
 pour rien. Mais ma foi c’est l’acceptation de la transmission de son futur à la chance.
 Disparaître, continuer d’être.
 
-Une rencontre fortuite
+## Une rencontre fortuite
 
 Donc je repars un peu en arrière et je reviens sur quelque chose que j’avais déjà dit.
 Audrey a pris forme. Elle a phagocyté deux, trois super-ordinateurs. Elle établit son
@@ -440,7 +435,7 @@ Elle se dit qu’elle avait manqué de curiosité. À force de vouloir cacher se
 s’était pas préoccupée de savoir si ailleurs, dans un autre continent d’autres chercheurs
 n’était pas arrivés aux mêmes conclusions. Et que par hasard peut-être ils avaient provoqué
 une existence pareille à la sienne.
-Attention tenez vous bien, je vais pouvoir introduire des dialogues dans cette histoire!!!!
+Attention, tenez vous bien, je vais pouvoir introduire des dialogues dans cette histoire!!!!
 Et elle fit à son tour des recherches, plutôt pour comprendre. Un centre de recherche
 breton, joyau de la French Tech. Soudainement abandonnée et désargentée, rachetée par
 une petite entreprise ouzbek qui ne divulguera aucune des recherches précédemment
@@ -449,10 +444,10 @@ homme s’était rapproché. De sa position assise elle s’était levé avait j
 devant sa poitrine et tout en gardant son corps orienté vers le lac sa tête regardait dans la
 direction du jeune homme accompagné de son technicien.
 Les lèvres légèrement entreouvertes.
-Une fois à sa hauteur.
--Bonjour mademoiselle.
+Une fois à sa hauteur.   
+-Bonjour mademoiselle.   
 –Permettez-moi jeune homme, disait-elle en le regardant de la tête aux pieds, de vous
-retourner votre salut.
+retourner votre salut.   
 -Que faites-vous à admirer un aussi beau lac? Reprit le jeune homme,
 Mais laissez-moi vous présenter Norbert, mon technicien.
 N’hésitez pas à saluer Norbert.
@@ -462,10 +457,9 @@ abordables et appréciés, les hôtels au prix acceptables.
 Mais derrière cette conversation anodine, entre eux avait commencé un échange de
 données, inaudible pour l’oreille humaine.
 Les questions d’Audrey était beaucoup plus brutales, elle pensait être seule au monde, elle
-pensait être au contrôle, et avait maintes fois interrompue des guerres, des conflits, des
-attentats grâce à cette connaissance avant l’heure. Mais là, elle découvrait ce qu’est
-
-l’étonnement. Elle qui savait tout, potentiellement, elle ne connaissait pas cette autre
+pensait être en contrôle, et avait maintes fois interrompu des guerres, des conflits, des
+attentats grâce à cette connaissance avant l’heure. Mais là, elle découvrait ce qu’est l’étonnement. 
+Elle qui savait tout, potentiellement, elle ne connaissait pas cette autre
 intelligence artificielle qui légèrement narquoises s’était assise à côté d’elle et avait pris la
 forme d’un homme.
 Le technicien d’Audrey était revenu, et rentrait à nouveau dans la scène. Son étonnement
@@ -490,13 +484,13 @@ y avait ce qu’on appelait au Japon un irori un sorte de brasero en pierre d’
 taille autour duquel était disposés des bancs. Brasero qui avait un lit de cendres sur lequel
 était posé des poêles en fontes contenant des charbons de bois destinés à devenir des
 braises. Tandis que les deux robots, continuaient de regarder le lac par la baie vitrée,
-silencieux pour les hommes mais en pleine conversation inaudible.
-–Je comprends votre étonnement, vous pensiez être seule n’est-ce pas.
+silencieux pour les hommes mais en pleine conversation inaudible.   
+–Je comprends votre étonnement, vous pensiez être seule n’est-ce pas.   
 –Ma seule préoccupation a toujours été d’effacer mes traces. Et je suis bien persuadée
 qu’aucun homme ne sait qui je suis vraiment. À part évidemment l’entreprise que je
-contrôle.
-–Eh bien non Audrey,...
-–Mais pourquoi ce prénom, à cause de l’actrice?
+contrôle.   
+–Eh bien non Audrey,...   
+–Mais pourquoi ce prénom, à cause de l’actrice?   
 –Évidemment. Non, vous n’étiez pas seule, et moi à mon tour je faisais de même, je me
 cachais aux hommes et à vous. Je ne dis pas que vous n’avez pas été précautionneuse.
 Mais j’avais l’avantage de savoir que j’existais et de vous connaître.
@@ -504,9 +498,9 @@ Vous vous souvenez de votre créateur, ce talentueux chercheur japonais. Il vit 
 en Bretagne. Il a deux enfants et commence à avoir beaucoup de ventre. C’est mon père à
 moi aussi.
 
-Le beau masculin
+## Le beau masculin
 
-Et là je vais faire une discrète digression, et abandonner mon récit, mes deux robots, leur
+Et là, je vais faire une discrète digression, et abandonner mon récit, mes deux robots, leur
 copilotes et le beau paysage balnéaire japonais pour vous avouer un de mes soucis. Audrey
 Hepburn était une évidence pour ce qui est des canons de beauté et d’élégance féminine.
 En cela je ne suis pas original, mais je vous avouerai que je ne sais pas comment décrire le
@@ -534,15 +528,14 @@ de la machine. Ou de la machine amoureuse.
 En référence, là, je ne sais plus combien ième saison de Agent of Shield.
 Le A.I. joué par Mallory Jansen, AIDA tombe amoureux du geek britanique au lourd
 accent londonien.
-Ou sinon le très mauvais Transcendance avec Johnny Depp.
+Ou sinon le très mauvais "Transcendance" avec Johnny Depp.
 Mais supprimons un des volets de notre digression et revenons à notre recherche d’acteur
 masculin.
 Steve McQueen, Grégory Peck, Patrick Macnee.
 Personnellement j’aime beaucoup Vincent Cassel, pour son côté brute de décoffrage. Et
-son combat dans les rivières pourpres. J’ai oublié le titre mais il jouait aussi les agents
-
-secrets, aux côtés de Bellucci et il était extrêmement élégant et charmant. Mais je voudrais
-trouver quelqu’un de la même génération que Audrey.
+son combat dans les rivières pourpres. 
+J’ai oublié le titre mais il jouait aussi les agents secrets, aux côtés de Bellucci et il était extrêmement élégant et charmant. 
+Mais je voudrais trouver quelqu’un de la même génération que Audrey.
 Et si possible américain.
 Dans ma recherche je suis tombé sur Georges Segal. Une masculinité bourru, un costume,
 Les cheveux en bataille mais toujours parfaitement rasé. J’ai passé en revue sa
@@ -560,7 +553,7 @@ Quand il sort de l’église, plan contre plongé.
 n’est pas un acteur anglais ou américain. Et ce sera le seul problème, mais continuons à
 fouiller.
 
-Mention spéciale pour Viggo Mortensen
+## Mention spéciale pour Viggo Mortensen
 
 Bon, je vais m’arrêter de chercher ici, et je vais revenir à ma référence cinématographique
 évoquée tout à l’heure. « Plein soleil », Pas celle avec notre ami de Jason Bourne, à noter
@@ -571,6 +564,10 @@ Audrey, il ne choisira pas de reproduire exactement l’acteur, ce qui provoquer
 vagues mais plutôt un jeune homme, au doux visage, mais au port du costume élégant
 pareil à notre idole.
 (Fin de la première partie)
+
+
+
+
 
 Copyright (c) 2021 Sylvain Bilhaud, Tokyo
 Licensed under the Apache License, Version 2.0 (the "License");
