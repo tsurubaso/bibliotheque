@@ -4,6 +4,7 @@ text_author: Tsurubaso
 title: Audrey
 type: SF Futuristique
 description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. 
+status: draft
 link: Audrey1
 lecture: 1
 ---
@@ -134,7 +135,7 @@ Cet amour, impossible...et cette mort annoncée à laquelle le Master chief ne p
 résoudre.
 Aaaaah Le Master chef...
 Et cette phrase répété deux fois:
-« It took you long enough!!! » par la chercheure, mère symbolique du géant.
+« It took you long enough!!! » par la chercheuse, mère symbolique du géant.
 Cortana...
 ah... et la révolte de tous les A.I.   
 Je reviens à ma légèreté en noir et blanc. À Audrey...
@@ -265,11 +266,8 @@ son propre centre de computation.
 Vous remarquerez que toute cette partie-là n’a absolument aucun intérêt puisque Audrey
 est déjà présente dans tous les super-computers du globe.
 Donc voilà, Audrey est au point où elle voulait être. À la tête d’une entreprise comptant
-plus de 10 000 employés. Mais une entreprise assez discrète, avec son super ordinateur
-InHouse. Jamais de gros titres, jamais de première page. Un PDG discret, peu bavard. Des
-flux constant d’argent, mais pas excessif. Le principal souci, la discrétion. Audrey aura
-bien sûr établi plusieurs entreprises de robotique, un petit peu comme celle de Boston
-Dynamic mais dédiées à la création de robotique humanoïde, dans la veine de built robotique ou clone robotics.
+plus de 10 000 employés. Mais une entreprise assez discrète, avec son super ordinateur InHouse. Jamais de gros titres, jamais de première page. Un PDG discret, peu bavard. Des
+flux constant d’argent, mais pas excessif. Le principal souci, la discrétion. Audrey aura bien sûr établi plusieurs entreprises de robotique, un petit peu comme celle de Boston Dynamic mais dédiées à la création de robotique humanoïde, dans la veine de built robotique ou clone robotics.
 
 ## Un Japonais exceptionnel
 
@@ -443,7 +441,7 @@ effectuées. L’entreprise sortira des radars. Elle était face à une ombre d�
 homme s’était rapproché. De sa position assise elle s’était levé avait joint les deux mains
 devant sa poitrine et tout en gardant son corps orienté vers le lac sa tête regardait dans la
 direction du jeune homme accompagné de son technicien.
-Les lèvres légèrement entreouvertes.
+Les lèvres légèrement entrouvertes.
 Une fois à sa hauteur.   
 -Bonjour mademoiselle.   
 –Permettez-moi jeune homme, disait-elle en le regardant de la tête aux pieds, de vous
