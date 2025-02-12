@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base E
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: story
+status: fragment
 link: BaseE
 lecture: 1
 ---
