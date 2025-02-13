@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base D
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: la ville dix ans après, qu'est devenue la cavité mystérieuse.
 status: story
 link: BaseD
 lecture: 1

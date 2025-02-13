@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Audrey
 type: SF Futuristique
 description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. 
-status: draft
+status: story
 link: Audrey1
 lecture: 1
 ---

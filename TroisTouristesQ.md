@@ -4,9 +4,9 @@ text_author: Tsurubaso
 title: Trois touristes Q
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: story
+status: draft
 link: TroisTouristesQ
-lecture: 1
+lecture: 0
 ---
 # Trois touristes Q
 ## Auteur : Tsurubaso

@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base M
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: le future de l'industrie minière, et l'hôtel du cratère
 status: story
 link: BaseM
 lecture: 1

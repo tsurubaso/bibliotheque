@@ -4,9 +4,9 @@ text_author: Tsurubaso
 title: Base N
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: story
+status: draft
 link: BaseN
-lecture: 1
+lecture: 0
 ---
 
 # Base N

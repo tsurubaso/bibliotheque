@@ -3,8 +3,8 @@ illu_author: null
 text_author: Tsurubaso
 title: Base B
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: draft
+description: Un homme regarde sous lui une forêt, sa petite amie le rejoint...
+status: story
 link: BaseB
 lecture: 1
 ---

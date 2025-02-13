@@ -3,14 +3,13 @@ illu_author: null
 text_author: Tsurubaso
 title: Base L
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: 9 octobre 2067
 status: story
 link: BaseL
 lecture: 1
 ---
 
 # Base L
-## Auteur : Tsurubaso
 
 
 Un garçon plongé dans sa lecture dans une couchette poser dans une prairie. Plutôt un lit. On devine une reconstruction Led faites pour donner plus d’espace. Colline qui surplombe une ville portuaire de petite taille. Quelque part au Japon peut-être. Au loin sur cette océan un pétrolier avance dans les reflets de soleil.

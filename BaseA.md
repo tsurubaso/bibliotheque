@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base A
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: Le forage d'une cavité, des machines monstrueuses, et la découverte de... 
 status: story
 link: BaseA
 lecture: 1

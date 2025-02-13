@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base C
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: courte réflection sur l'ordre et le désordre dans l'espace au cinéma
 status: story
 link: BaseC
 lecture: 1

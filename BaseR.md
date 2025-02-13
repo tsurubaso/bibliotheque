@@ -3,10 +3,10 @@ illu_author: null
 text_author: Tsurubaso
 title: Base R
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: story
+description: le monstre
+status: draft
 link: BaseR
-lecture: 1
+lecture: 0
 ---
 
 # Base R

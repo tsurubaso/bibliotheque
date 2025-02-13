@@ -3,10 +3,10 @@ illu_author: null
 text_author: Tsurubaso
 title: Base O
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: story
+description: La navette de transport
+status: draft
 link: BaseO
-lecture: 1
+lecture: 0
 ---
 
 # Base O

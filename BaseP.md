@@ -3,10 +3,10 @@ illu_author: null
 text_author: Tsurubaso
 title: Base P
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: story
+description: L&amour nécessaire dans une pièce vivante
+status: draft
 link: BaseP
-lecture: 1
+lecture: 0
 ---
 
 # Base P

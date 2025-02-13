@@ -1,12 +1,12 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: Audrey
-type:  SF Futuristique
-description: bla
+title: Audrey 2
+type: SF Futuristique
+description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. 
 status: draft
 link: Audrey2
-lecture: 1
+lecture: 0
 ---
 # Audrey 2
 

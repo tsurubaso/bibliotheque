@@ -3,8 +3,8 @@ illu_author: null
 text_author: Tsurubaso
 title: Base K
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: story
+description: essai dans l'horreur
+status: fragment
 link: BaseK
 lecture: 1
 ---

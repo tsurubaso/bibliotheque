@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base G
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: La vieille dame du jardin des Batignolles
 status: story
 link: BaseG
 lecture: 1

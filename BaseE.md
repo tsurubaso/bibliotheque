@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base E
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: ADN, génétique et épigénétique
 status: fragment
 link: BaseE
 lecture: 1

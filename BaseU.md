@@ -4,9 +4,9 @@ text_author: Tsurubaso
 title: Base U
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: story
+status: draft
 link: BaseU
-lecture: 1
+lecture: 0
 ---
 
 # U base

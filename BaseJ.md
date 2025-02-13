@@ -3,8 +3,8 @@ illu_author: null
 text_author: Tsurubaso
 title: Base J
 type: SF Futuristique
-description: "bla, bla bla bla"
-status: story
+description: La cavité et l'équipe chargée de l'enquête, et Lybie la journaliste
+status: fragment
 link: BaseJ
 lecture: 1
 ---
