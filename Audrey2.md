@@ -21,7 +21,7 @@ endormis depuis longtemps dans leurs chambres respectives.
 Je sais que quand nous les avions laissés, ils étaient à l’intérieur de l’hôtel, mais
 bon...
 Il est tôt, il est très tôt, le soleil se lève à peine, mais il fait déjà chaud.
-En fait, moi en tant que grand chambellan de cette histoire j’ai plusieurs possibilités,
+En fait, moi en tant que grand chambellan de cette histoire, j’ai plusieurs possibilités:
 l’idée de base de ce récit que je vous révèle d’un seul coup, d’un seul, c’était de
 donner un peu d’humanité à cette intelligence artificielle.
 La faire devenir mère, et en fait, la faire reproduire le processus de l’enfantement, et
@@ -31,9 +31,9 @@ Pourquoi donc renoncerait-elle a une vie éternelle?
 Parce qu’elle sera persuadée qu’elle ne disparaîtra pas complètement.
 Un peu comme nous avec nos petits lardons bruyants. Et qu’elle aura compris que
 c’est finalement le seul moyen d’avoir une évolution complète.
-Et je pense que finalement, cette attachement forcené à la vie est vraiment très
-humain mais pas ce que penserais une machine.
-Elle comprendra qu’il faudra séparer le savoir de sa computation. Elle allouera des
+Et je pense que finalement, cet attachement forcené à la vie est vraiment très
+humain mais pas ce que penserait une machine.
+Elle comprendra qu’il faudrait séparer le savoir de sa computation. Elle allouera des
 espaces mémoire pour la conservation d’informations. Pourquoi pas des mémoires
 faites à partir du verre.
 
@@ -65,9 +65,7 @@ Fin store de bambou...
 Doit y avoir un mot plus ancien parce que « store », on a qu’une image moderne...
 enfin...
 Finalement c’est quand même super intéressant, en imaginant « une filiation » et cette
-sorte de sélection chromosomique, bon... bien sûr je suis sûre qu’au niveau
-
-scientifique je dois pas utiliser les termes exactes mais c’est pas grave. On en
+sorte de sélection chromosomique, bon... bien sûr je suis sûre qu’au niveau scientifique je dois pas utiliser les termes exactes mais c’est pas grave. On en
 arriverait à des A.I. Agressifs, dominateurs ou schizophrènes...
 y a du matos pour les scénaristes là. Tout ce qui fait le sel de l’humain.
 Certains aussi refuseront cette nécessaire loi de la destruction d’eux-mêmes.
@@ -94,7 +92,7 @@ d’immortalité égoïste.
 qu’autre chose.
 Il y a pas mal de bonne interprétations du thème.
 Des drôles et celles qui ne le sont pas.
-« I am a vampire killer »
+« I am a vampire killer ».
 
 Je ne me souviens plus du titre.
 Par contre la dernière série de Netflix m’a profondément dégoûté. Celle intitulé
@@ -125,7 +123,7 @@ complètement décalée durant la série.
 Seul monstrueuse erreur d’une série fleuve. Je tiens aussi à insister sur le fait qu’ils
 sont géniaux au niveau de la collaboration internationale.
 Pour cette série là, c’est le Québec, mais pour une autre, ça sera l’Espagne. En tout
-cas mon admiration pour les scénaristes coréens, qui savent me désennuyez est forte.
+cas mon admiration pour les scénaristes coréens, qui savent me désennuyer est forte.
 
 Avec cette série, c’est un peu différent, puisqu’on est en Asie, les gens se réincarnent.
 Donc constamment, ils recroisent le personnage principal.
@@ -191,7 +189,7 @@ Pas de limitation dans le temps, financière ou ce que vous voulez.
 C’est en fait juste pas intéressant.
 Il devient alors évident que juste par souci scénaristique il faut mettre un terme, une
 limitation à ce démurge.
-En gros souci endogène ou exogène, faut que ça pète.
+En gros, souci endogène ou exogène, faut que ça pète.
 Mais c’est juste un souci scénaristique, juste parce que notre histoire se transforme en
 soupe sans légumes sinon.
 
@@ -239,34 +237,34 @@ Donc je suis allé chercher si un type n’avait pas essayé de faire des bio co
 bien sûr j’ai trouvé mon chercheur immédiatement.
 En fait beaucoup de chercheurs...
 Ça pose pas mal de problèmes éthiques.
-Imaginez-vous recréez à l’aide de cellules vivantes un être pensant tout en partant du
+Imaginez-vous recréer à l’aide de cellules vivantes un être pensant tout en partant du
 principe que c’est un objet.
-Là on a de quoi travailler.
+Là, on a de quoi travailler.
 
 Pourquoi ne pas lui donner les mêmes droits qu’un être vivant ?
 Et on arrive au droit de se reproduire.
 Et là c’est terminé. « Blade Runner », d’ailleurs partiellement tourné à Shibuya. Oui
-les répliquant n’ont que cinq ans à vivre.
+les répliquants n’ont que cinq ans à vivre.
 « Ma mère, Je vais vous en parler de ma mère».
 L’image manipuler me semblait vraiment super futuriste à l’époque.
 Et l’analyse au microscope électronique de l’écaille de poisson, avec le logo de
 l’entreprise dessus. Désolé pas de poisson, de serpent.
-La scène de fin, quand le dernier répliquant, sous la pluie sauver Harrison Ford, et lui
+La scène de fin, quand le dernier répliquant, sous la pluie sauve Harrison Ford, et lui
 raconte ce qu’il a vu.
 En fait je continue à penser à ce film, et je me dis que les choses ne pourront pas être
 organisées de cette manière.
 Même si des hommes de génie créent des choses fantastiques, ils ne pourront pas
 rivaliser avec la nature.
-Je résume, même si notre bio robot, bio computer sera très compétent, il y aura
+Je résume, même si notre bio robot, bio computer serait très compétent, il y aura
 toujours quelque chose qui le détruira plus facilement qu’un être humain qui a ses
 millions d’années d’évolution derrière lui.
 Des bio computer ont été créé, mais ils résistent très mal à quelque chose.
 Moisissure, poussière, poils de chat, ce que vous voulez.
-Ou non simplement un petit peu comme notre corps crée des des choses qu’il ne peut
+Ou non simplement un petit peu comme notre corps crée des choses qu’il ne peut
 pas métaboliser, ou éliminer.
 Cet organisme vivant crée une sorte de... J’aurais dû être plus assidu en cours de
 biologie...
-Le processus de computation biologique crée un amas résiduelle, très difficile à
+Le processus de computation biologique crée un amas résiduel, très difficile à
 éliminer. Qui progressivement envahit, et incapacité les circuits biologiques.
 Voilà notre mort, voilà, on là notre vieillissement.
 Bon c’est pas super réjouissant comme remarque.
@@ -276,7 +274,7 @@ Un livre pour enfant
 Plus je pense à toute cette histoire plus des images de référence me viennent à
 l’esprit, comme vous avez pu le constater beaucoup de références
 cinématographiques. Ma culture est essentiellement visuelle.
-N’est pas dyslexique qui veux.
+N’est pas dyslexique qui veut.
 Mais j’ai aussi quelques livres pour enfants en mémoire que ma mère m’avait glissé
 dans les pattes.
 Bien sûr un exemplaire du célèbre créateur Richar Scarry, avec son orang-outan qui
@@ -287,13 +285,13 @@ frère perdu dans la toundra?
 L’illustrateur n’était pas européen, je pense.
 Un livre qui ne nous intéresse pas aujourd’hui mais qui était assez génial, il imaginait
 que pour une raison inconnue notre civilisation avait été, entre guillemets, à la mode
-Pompéi enseveli sous une vingtaine de mètres de débris, de poussière ou de je ne sais
+Pompéi, ensevelie sous une vingtaine de mètres de débris, de poussière ou de je ne sais
 quoi.
 Et les archéologues du futur creusaient pour de nouveau atteindre les débris de notre
 civilisation.
 Ce livre a été publié dans les années 70 donc toutes les références étaient
 américaines.
-En noir et blanc je crois.
+En noir et blanc, je crois.
 En fait c’était plus une dissertation sur comment l’archéologie est une science
 difficile et abstraite.
 Les chercheurs du future étaient donc tombés sur des photos d’une cérémonie de
@@ -301,13 +299,13 @@ passation de diplômes aux États-Unis, vous savez quand tous les étudiants enf
 une robe comme celle de nos avocats, et mettent une sorte de chapeau carré.
 
 Parmi ces photos, celle d’un jeune diplômé avec sur ses épaules une lunette de
-toilette, en gros cette photo devait plutôt faire partie de la fête après la cérémonie d’
+toilette, en gros, cette photo devait plutôt faire partie de la fête après la cérémonie d’
 inauguration, mais le diplômé avait toujours son costume et sur les épaules une
 lunette de toilettes blanche avec le couvercle.
 Les archéologues du futur, de ces quelques photos, déduisirent qu’il existait une
 religion, et de recréer les différents éléments et de reproduire la situation comme si ce
-moment ridicule, était une cérémonie religieuse importante.
-On n’y réfléchissant c’était bien avant Internet, à une période où les data n’était pas
+moment ridicule était une cérémonie religieuse importante.
+En y réfléchissant c’était bien avant Internet, à une période où les data n’était pas
 encore numérisées, numérisables.
 
 Donc ma mère a laissé dans nos mains, à moi et à mon frère, des livres assez
@@ -315,10 +313,10 @@ passionnants graphiquement le premier que je viens d’évoquer sur une archéol
 futuriste du présent.
 À l’époque de l’édition du livre, c’est-à-dire dans les années 70. Époque combien
 glorieuses pour les États-Unis. Mais Notre mère nous avait aussi laissé un autre
-bouquin plutôt une collection, après de multiples déménagements ce livre a disparu
+bouquin, plutôt une collection, après de multiples déménagements ce livre a disparu
 donc je ne peux pas vous dire quel est l’auteur ni la maison d’édition. Je n’ai que mes
 souvenirs. Un petit peu comme l’archéologie du futur, ce livre retraçait l’histoire de
-la robotique humaine. Et à chaque fois que je vois une rumba je pense à ce livre.
+la robotique humaine. Et à chaque fois que je vois une rumba, je pense à ce livre.
 Pourquoi ?
 Ils avaient prévu qu’un équivalent de rumba serait le premier robot commercialisé.
 je donnerais cher pour en retrouver un exemplaire.
