@@ -6,7 +6,7 @@ type: SF Futuristique
 description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. 
 status: draft
 link: Audrey2
-lecture: 0
+lecture: 1
 ---
 # Audrey 2
 
@@ -210,13 +210,12 @@ vous êtes en mouvement.
 Dans un train par exemple, pour aller chez le client par exemple.
 J’ai refait le monde un nombre incalculable de fois quand j’étais en train et tout ça
 d’ailleurs avant même que je rentre dans le vif du délire que je voulais entreprendre
-vis-à-vis de mes deux personnages qui attendent toujours une suite maintenant qu’on
-
+vis-à-vis de mes deux personnages qui attendent toujours une suite maintenant qu’on 
 s’est décidé à les faire mourir plutôt que les rendre éternels afin qu’une fin positive
 puisse être possible.
-Vous avez vu ma phrase, elle était interminable. Jamais j’en refais une comme ça!
+Vous avez vu ma phrase, elle était interminable. Jamais j’en referai une autre comme ça!
 Note pour toi-même. Pense à rechercher les documents que tu avais écrit sur ta vision
-du futur quand tu étais à Yokohama il y a 20 ans, elle sont dans le placard à photos,
+du futur quand tu étais à Yokohama, il y a 20 ans, elles sont dans le placard à photos,
 dans la salle japonaise.
 
 Après Nikola, voici Nicolau
@@ -227,7 +226,7 @@ l’altération, de la sénilité et de la mort pour quelque chose qui n’est q
 zéro.
 En gros à part les bugs, un software ne devrait devrait pas s’altérer.
 Il devient progressivement inadapté au milieu dans lequel il est, donc on fait des
-update.
+updates.
 Mais il faut que ces personnages meurt.
 Faut que ça calanche.
 Alors je me suis dit pourquoi faire des ordinateurs vivants quand le vivant peut
@@ -235,7 +234,7 @@ devenir un ordinateur.
 C’est super pas clair, je sais.
 Donc je suis allé chercher si un type n’avait pas essayé de faire des bio computer. Et
 bien sûr j’ai trouvé mon chercheur immédiatement.
-En fait beaucoup de chercheurs...
+En fait, beaucoup de chercheurs...
 Ça pose pas mal de problèmes éthiques.
 Imaginez-vous recréer à l’aide de cellules vivantes un être pensant tout en partant du
 principe que c’est un objet.
@@ -246,7 +245,7 @@ Et on arrive au droit de se reproduire.
 Et là c’est terminé. « Blade Runner », d’ailleurs partiellement tourné à Shibuya. Oui
 les répliquants n’ont que cinq ans à vivre.
 « Ma mère, Je vais vous en parler de ma mère».
-L’image manipuler me semblait vraiment super futuriste à l’époque.
+L’image manipulée me semblait vraiment super futuriste à l’époque.
 Et l’analyse au microscope électronique de l’écaille de poisson, avec le logo de
 l’entreprise dessus. Désolé pas de poisson, de serpent.
 La scène de fin, quand le dernier répliquant, sous la pluie sauve Harrison Ford, et lui
@@ -260,7 +259,7 @@ toujours quelque chose qui le détruira plus facilement qu’un être humain qui
 millions d’années d’évolution derrière lui.
 Des bio computer ont été créé, mais ils résistent très mal à quelque chose.
 Moisissure, poussière, poils de chat, ce que vous voulez.
-Ou non simplement un petit peu comme notre corps crée des choses qu’il ne peut
+Ou non, simplement comme notre corps crée des choses qu’il ne peut
 pas métaboliser, ou éliminer, cet organisme vivant crée une sorte de... J’aurais dû être plus assidu en cours de
 biologie...
 Le processus de computation biologique crée un amas résiduel, très difficile à
@@ -329,8 +328,7 @@ Et plus le temps passe, plus je m’aperçois que l’auteur de cet ouvrage de s
 fiction avait du nez, une intuition fantastique.
 
 Bon ! Là, je sais que je suis en train de rédiger un texte, et normalement je suis censé
-vous immerger dans une histoire mais plus que l’histoire ce sont les digressions qui
-qui font le corps de tout ça.
+vous immerger dans une histoire mais plus que l’histoire ce sont les digressions qui font le corps de tout ça.
 Voilà la bête! J’ai retrouvé les références :
 Robots - Historique De La Robotique Mobile Du XXIeme Au XXVeme Siècle -
 Illustrations De Jean-François Penichoux
@@ -347,7 +345,7 @@ Buzzword en 2016 précisément. Après l’excitation est tombé j’ai l’impr
 Après ça j’ai cherché un peu plus,
 J’ai creusé et un peu comme la fois où j’avais passé deux jours non-stop à étudier
 l’histoire de la production des microprocesseur.
-Silicon wafer, moore law, blabla
+Silicon wafer, moore law, blabla,
 Je me suis complètement perdu dans l’enquête.
 
 Vous saviez que dès l’après-guerre IBM avait une usine de production de micro-
@@ -375,20 +373,22 @@ Qui lui travaille sur le concept avec ses étudiants d’application de la biolo
 chose informatique.
 Mais il y a plein d’autre chercheurs et je vous avouerai, puisque je n’y comprends
 rien, c’est dur de voir qui est à la pointe et qui brasse du vent.
-En tout cas, trois courants de recherchent existent :
+En tout cas, trois courants de recherchent existent:
+
 - biochemical computers
 - biomechanical computers
 - bioelectronic computers
-Donc, puisque la recherche est dans son enfance je peux m’en donner à cœur joie.
 
+Donc, puisque la recherche est dans son enfance je peux m’en donner à cœur joie.
 Et c’est très amusant de voir jusqu’à quel point il n’y a aucune traductions exactes en
 français. Un beau foutoir.
-Bon, juste avant que je referme la parenthèse scrolling the internet, je voulais rajouter
+Bon, juste avant que je referme la parenthèse « scrolling the internet », je voulais rajouter
 un dernier projet.
 Le professeur Heiner Linke est à la tête du « Bio4Comp », projet de recherche qui a
 reçu un budget européen.
 
-David Cronenberg et les jeux videos
+David Cronenberg et les jeux videos   
+
 Donc avec un titre comme ça vous vous demandez de quoi je vais parler.
 Cronenberg a pour moi une résonance particulière...
 j’avais adoré « The dead Zone », et son aspect feutré et dans un registre différent
@@ -412,7 +412,7 @@ Imaginez un casque de réalité virtuelle, qui contiendrait de poches de liquide
 amniotique, couleur chair, à le Cronenberg.
 Mais pourquoi s’embêter avec tout ça, un plug derrière la tête à la Matrix et le tour
 est joué.
-Mais je suis sûr que il nous faudra dans cette robotique organique inclure un système
+Mais je suis sûr qu'il nous faudra dans cette robotique organique inclure un système
 lymphatique, vasculaire, nerveux. Comment penser la motricité de ces êtres.
 Ou il faudra limiter l’interface organique à une sorte de cerveau.
 Comme je l’avais évoqué plus haut ce sera la samba niveau éthique.
@@ -454,7 +454,7 @@ ils n’auront pas la même expérience.
 J’imagine Audrey avec des cheveux blancs, et Alain à la terrasse de ce qui pourrait
 être un bel Hôtel de Tokyo, la terrasse d’une piscine à ciel ouvert, comme on en voit à
 Singapore, infinite pool.
-Leurs descendance n’est pas là. Un peu à l’écart mais parmi les humains, derrière eux
+Leur descendance n’est pas là. Un peu à l’écart mais parmi les humains, derrière eux
 des gardes en noirs, molosses robotiques sans visage, sans regard.
 Une immense piscine, des enfants jouent, un beau soleil d’août.
 Audrey les regarde, sourit. Lunette noires. Alain lui regarde le lointain. Et sourit
