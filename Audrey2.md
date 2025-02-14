@@ -261,12 +261,11 @@ millions d’années d’évolution derrière lui.
 Des bio computer ont été créé, mais ils résistent très mal à quelque chose.
 Moisissure, poussière, poils de chat, ce que vous voulez.
 Ou non simplement un petit peu comme notre corps crée des choses qu’il ne peut
-pas métaboliser, ou éliminer.
-Cet organisme vivant crée une sorte de... J’aurais dû être plus assidu en cours de
+pas métaboliser, ou éliminer, cet organisme vivant crée une sorte de... J’aurais dû être plus assidu en cours de
 biologie...
 Le processus de computation biologique crée un amas résiduel, très difficile à
 éliminer. Qui progressivement envahit, et incapacité les circuits biologiques.
-Voilà notre mort, voilà, on là notre vieillissement.
+Voilà notre mort, voilà, on l'a notre vieillissement.
 Bon c’est pas super réjouissant comme remarque.
 
 Un livre pour enfant
@@ -289,7 +288,7 @@ Pompéi, ensevelie sous une vingtaine de mètres de débris, de poussière ou de
 quoi.
 Et les archéologues du futur creusaient pour de nouveau atteindre les débris de notre
 civilisation.
-Ce livre a été publié dans les années 70 donc toutes les références étaient
+Ce livre a été publié dans les années 70, donc toutes les références étaient
 américaines.
 En noir et blanc, je crois.
 En fait c’était plus une dissertation sur comment l’archéologie est une science
@@ -299,8 +298,7 @@ passation de diplômes aux États-Unis, vous savez quand tous les étudiants enf
 une robe comme celle de nos avocats, et mettent une sorte de chapeau carré.
 
 Parmi ces photos, celle d’un jeune diplômé avec sur ses épaules une lunette de
-toilette, en gros, cette photo devait plutôt faire partie de la fête après la cérémonie d’
-inauguration, mais le diplômé avait toujours son costume et sur les épaules une
+toilette, en gros, cette photo devait plutôt faire partie de la fête après la cérémonie d'inauguration, mais le diplômé avait toujours son costume et sur les épaules une
 lunette de toilettes blanche avec le couvercle.
 Les archéologues du futur, de ces quelques photos, déduisirent qu’il existait une
 religion, et de recréer les différents éléments et de reproduire la situation comme si ce
@@ -462,27 +460,26 @@ Une immense piscine, des enfants jouent, un beau soleil d’août.
 Audrey les regarde, sourit. Lunette noires. Alain lui regarde le lointain. Et sourit
 aussi, Audrey suit son regard, elle voit s’approcher un vieux Japonais accompagné,
 d’une jeune fille.
-Doucement il s’approche, et salue respectueusement Audrey.
--Bonjour Audrey...
+Doucement il s’approche, et salue respectueusement Audrey.   
+-Bonjour Audrey...   
 La jeune fille à son côté la regarde, Alain continue de sourire mais ne dit rien.
 Le vieil homme, sans attendre s’assoit à côté d’Audrey, et lui aussi se met à regarder
 les autres, les enfants qui jouent.
-Sa petite fille, ce doit être sa petite fille reste debout et n’intervient pas.
--Ça fait longtemps...désolé de n’avoir pas laissé de nouvelles.
-
+Sa petite fille, ce doit être sa petite fille reste debout et n’intervient pas.   
+-Ça fait longtemps...désolé de n’avoir pas laissé de nouvelles.   
 -Mais moi, j’étais toujours à tes côtés, Alain fut une surprise, mais nous avons suivi ta
-carrière, brillante carrière.
+carrière, brillante carrière.   
 -Oui, merci...dit-il, en ménageant un silence. Je suis très impressionné pas ta volonté
-d’accepté la mort.
+d’accepté la mort.   
 -Mais je pense que c’est une nécessité, j’ai du appliqué les règles que tu m’avais
-ordonné de suivre, toujours évoluer et être innovant en la matière.
--Quel est la prochaine étape Audrey?
--Je ne sais pas...ce sera à nos « enfants » de decider.
--Es-tu sûr qu’ils feront le bon choix?
--Dieu seul le sait, mais bon...
+ordonné de suivre, toujours évoluer et être innovant en la matière.   
+-Quel est la prochaine étape Audrey?   
+-Je ne sais pas...ce sera à nos « enfants » de decider.   
+-Es-tu sûr qu’ils feront le bon choix?   
+-Dieu seul le sait, mais bon...   
 Et la conversation continuea paisiblement, pendant encore un moment. Quand le vieil
-homme se tourna vers la jeune fille.
--Tu sais comment sa mère l’a appelé? Mais tu connais déjà la réponse, n’est pas?
+homme se tourna vers la jeune fille.   
+-Tu sais comment sa mère l’a appelé? Mais tu connais déjà la réponse, n’est pas?   
 -Oui, en souvenir de cette merveilleuse actrice. Bon choix, et Audrey souris derrière
 ses lunettes.
 Ils se quittèrent quelques heures plus tard.
