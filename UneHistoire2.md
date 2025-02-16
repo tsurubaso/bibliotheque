@@ -4,7 +4,7 @@ text_author: Une Histoire sans l’histoire 2
 title: Base A
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: draft
+status: story
 link: UneHistoire2
 lecture: 0
 ---
