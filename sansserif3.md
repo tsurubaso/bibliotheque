@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Sans sérif 3
 type: Essai
 description: bla
-status: draft
+status: fragment
 link: sansserif3
 lecture: 0
 ---
