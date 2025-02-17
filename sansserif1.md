@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Sans sérif 1
 type: Essai
 description: bla
-status: draft
+status: fragment
 link: sansserif1
 lecture: 0
 ---
@@ -15,14 +15,14 @@ Pourquoi donc j’avais commencé à écrire.
 Je me souvenais du début de l’histoire. Mais je ne me souvenais plus du tout de pourquoi j’avais commencé cette histoire. Ça m’était venu comme une démangeaison, comme une nécessité. J’avais des millions de choses à faire, des trucs importants, la banque en France. 
 Des choses que je laissais pourrir tout en sachant que c’était urgent. D’un autre côté la lettre que j’avais envoyé aux assurances n’était pas revenue, mais bon. 
 Pourquoi j’avais commencé à écrire tout ça ? 
-Rien ne me ramenait à la raison déclencheur.
-Pourquoi j’avais avec tant de passion fait des recherches sur le Net, Regardé des vidéos de spécialistes, pris des notes sur des thèmes si difficiles et si éloignés de ce que je suis.
-Un peu parce que peut-être pour moi c’était une évidence. 
-Et il fallait que ce soit fait. 
-Mais une fois que c’était fait, terminé je n’avais plus aucune raison de prendre le stylo, et de me mettre à écrire.
-Et le processus me manquait déjà, les personnages que je m’étais imaginés, inventés avec leurs vies, leur caractères, leur forces me manquaient déjà. 
+Rien ne me ramenait à la raison déclencheuse.   
+Pourquoi j’avais avec tant de passion fait des recherches sur le net, regardé des vidéos de spécialistes, pris des notes sur des thèmes si difficiles et si éloignés de ce que je suis.   
+Un peu parce que peut-être pour moi c’était une évidence.   
+Il fallait que ce soit fait. 
+Mais une fois que c’était fait, terminé je n’avais plus aucune raison de prendre le stylo, et de me mettre à écrire.   
+Le processus me manquait déjà, les personnages que je m’étais imaginés, inventés avec leurs vies, leur caractères, leur forces me manquaient déjà. 
 Ils étaient sortis de ma vie pour la leur, celle de papier. 
-Enfin quand je dis celle de papier, c’est métaphorique. Pour l’instant ils restent des zéros et des uns et risque de le rester pour assez longtemps. 
+Pour l’instant ils restent des zéros et des uns et risque de le rester pour assez longtemps. 
 Moi de me retrouver avec des gravats et une terre sèche. 
 Je savais pertinemment que quand je me forçais à avoir des idées, quand je me forçais à écrire quelque chose et quand ça ne venait pas naturellement, c’était toujours moins bon. 
 Alors j’ai essayé d’accepter le fait. J’ai essayé de me remettre à penser à tout ce que j’avais fait en programmation. 
@@ -36,9 +36,9 @@ Quand l’histoire s’était terminée d’elle-même j’étais contraint de r
 J’avais pris du bide aussi, ça c’était une autre contrainte technique, pendant le confinement, pour lui donner un nom qui puisse correspondre à ce que ce qu’on connu les Français. 
 Mais au Japon le confinement c’est juste, « Il serait bien de rester à la maison ».
 Sans même un point d’exclamation en fin de phrase.
-Un petit message léger, sans aucune contrainte, mais contrairement à nos amis tricolores la confiance était telle  dans le gouvernement qui n’a pas été nécessaire d’appuyer beaucoup sur le bouton pour que tout le monde reste in casa.
+Un petit message léger, sans aucune contrainte, mais contrairement à nos amis tricolores la confiance était telle  dans le gouvernement qu'il n’a pas été nécessaire d’appuyer beaucoup sur le bouton pour que tout le monde reste in casa.
 Enfin ça c’était pour les deux premières fois, les jeux olympiques ont un peu brouillé la donne.
-Bref, je pouvais profiter de deux heures supplémentaires pour faire un peu de sport, et après de nombreux footing matinaux, j’étais descendu à une belle moyenne. Pendant une période, les restrictions avait été assouplies, et nous étions retourner travailler au bureau.
+Bref, je pouvais profiter de deux heures supplémentaires pour faire un peu de sport, et après de nombreux footing matinaux, j’étais descendu à une belle moyenne. Pendant une période, les restrictions avait été assouplies, et nous étions retournés travailler au bureau.
 J’avais assez immédiatement repris 3 kg. C’était une préoccupation, c’est une préoccupation, parce que mon fils n’arrête pas de me taquiner lui qui maintenant est aussi grand que moi, que Dieu tout-puissant le protège.
 Je me souviens de Victor, Un collègue de travail et consul d’une ambassade africaine, C’était il y a 20 ans, pas le travail actuel...
 Quand à la naissance de mon fils, j’étais si heureux de lui annoncer la nouvelle.
@@ -73,7 +73,7 @@ Et sans raison, il lève la tête regarde sur la droite, au bout d’une rue gri
 Et à partir de là notre bonhomme en costume reçois d’une jolie elfe un objet magique. 
 Mouaiii… la Jolie Elfe, ça fait trop Cosplai, ahhh personnage en ambre semi translucide comme dans Hellboy II: The Golden Army (2008), de  Guillermo Del Toro.
 « Let me remind you why you once feared the dark »
-Il se réveiller en sursaut, dans son lit tout habillé, les teintes colorés ont disparu on est de nouveau dans un univers gris, il ouvre sa main, dedans l’artefact donné près de l’arbre.
+Il se réveille en sursaut, dans son lit tout habillé, les teintes colorés ont disparu on est de nouveau dans un univers gris, il ouvre sa main, dedans l’artefact donné près de l’arbre.
 Le fantastique c’est toujours sympa.
 
 À suivre...
