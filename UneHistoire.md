@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Une Histoire sans l’histoire 
 type: SF Futuristique
 description: "bla, bla bla bla"
-status: draft
+status: story
 link: UneHistoire
 lecture: 0
 ---
