@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Sans sérif 1
 type: Essai
-description: bla
+description: Une réflection un peu mouillée, deux, trois idées
 status: fragment
 link: sansserif1
 lecture: 0

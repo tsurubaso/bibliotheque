@@ -1,7 +1,7 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: Une Histoire sans l’histoire 3
+title: template
 type: SF Futuristique
 description: Bon, c'est le template mais je veux voir ce que ça donne donc provisoirement fragment
 status: fragment

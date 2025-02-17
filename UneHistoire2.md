@@ -1,9 +1,9 @@
 ---
 illu_author: null
 text_author: Une Histoire sans l’histoire 2
-title: Base A
+title: Une Histoire sans l’histoire 2
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: Pourquoi en 2023/24 j'ai commencé à écrire des nouvelles de sf, ça c'est la série de posts laissé sur Facebook dans lesquels j'ai établi la logique de l'univers. j'ai changé des trucs après, et tout ne correspond pas.
 status: story
 link: UneHistoire2
 lecture: 0
