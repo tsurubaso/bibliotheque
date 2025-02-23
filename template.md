@@ -7,7 +7,34 @@ description: Bon, c'est le template mais je veux voir ce que ça donne donc prov
 status: fragment
 link: template
 lecture: 1
+
+items:
+  - id: 1
+    content: 'Item 1'
+    start: '2025-04-20'
+    className: 'custom-class'
+    group: 1
+    type: 'range'
+    style: 'background-color: blue; color: white;'
+  - id: 2
+    content: 'Item 2'
+    start: '2025-04-14'
+    className: 'custom-class'
+    group: 1
+    type: 'range'
+    style: 'background-color: red; color: white;'
+  - id: 3
+    content: 'Item 3'
+    start: '2025-04-18'
+    className: 'custom-class'
+    group: 2
+    type: 'point'
+    style: 'background-color: green; color: white;'
 ---
+# Timeline Items
+
+This markdown file contains multiple timeline items.
+
 
 
 # Base A
@@ -73,9 +100,13 @@ const codeBlock = "codeBlock";
 ```
 
 ```javascript
+
+
 const greet = (name) => {
   return `Hello, ${name}!`;
 };
+
+
 ```
 
 [Link](/test)

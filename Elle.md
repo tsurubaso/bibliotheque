@@ -4,9 +4,9 @@ text_author: Tsurubaso
 title: Elle
 type: SF Futuristique
 description: Je ne me souviens pas
-status: draft
+status: story
 link: Elle
-lecture: 0
+lecture: 1
 ---
 
 C’est l’histoire qui...
