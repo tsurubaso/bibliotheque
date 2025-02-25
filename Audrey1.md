@@ -7,6 +7,8 @@ description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Que
 status: story
 link: Audrey1
 lecture: 1
+timelineStart: 2024-01-01
+timelineEnd: 2024-02-01
 ---
 
 

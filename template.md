@@ -7,6 +7,8 @@ description: Bon, c'est le template mais je veux voir ce que ça donne donc prov
 status: fragment
 link: template
 lecture: 1
+timelineStart: 2024-01-01
+timelineEnd: 2024-02-01
 
 items:
   - id: 1

@@ -7,6 +7,8 @@ description: La cavité et l'équipe chargée de l'enquête, et Lybie la journal
 status: fragment
 link: BaseJ
 lecture: 1
+timelineStart: 2024-01-01
+timelineEnd: 2024-02-01
 ---
 
 # Base J

@@ -7,6 +7,8 @@ description: La vieille dame du jardin des Batignolles
 status: story
 link: BaseG
 lecture: 1
+timelineStart: 2024-01-01
+timelineEnd: 2024-02-01
 ---
 
 # Base G
