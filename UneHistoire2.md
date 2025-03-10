@@ -12,7 +12,7 @@ timelineEnd: 2024-02-01
 ---
 
 # Une Histoire sans l’histoire 2
-## Auteur : Tsurubaso
+
 
 Parce que finalement vous voyez ce qui me tracasse le plus. Ce qui me turlupine. C’est que je suis sensible aux histoires bien construites. Aux récits bien faits. Je pleure comme il se doit à la fin d’une belle saison. Oui, l’autre hic est de ne pas distinguer l’image de l’écrit, j’ai souvent le visuel avant toute autre chose. Mais tout film commence par une séance de lecture. Et on a pas besoin d’images pour créer une scène.
 Oui… J’aime les belles histoires, bien construites, charpentées, bien en chair. Je suis un gros sensible et n’hésite jamais à m’épargner les passages trop longs et franchement chiants, quel que soit le grand maître. Mais cette même personne, votre serviteur, est incapable de pondre une histoire. Ironique non ? 

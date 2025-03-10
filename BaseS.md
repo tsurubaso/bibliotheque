@@ -16,7 +16,7 @@ timelineEnd: 2024-02-01
 
 
 # Base S
-## Auteur : Tsurubaso
+
 
 
 Tout avait commencé comme un projet de la NASA, il y a 200 ans de cela, un peu moins peut-être. D’autres agences et entreprises privées s’était progressivement allié au projet. L’ESA, l’agence spatiale mexicaine et d’autres encore. Cette structure au fil du temps s’était étouffée. Les états avaient investi, les entreprises privées après de longues années d’investissement non productif commencèrent à voir les fruits de leurs efforts et éspacé sur plusieurs générations. Tout cela sans que la structure ne se transforme.

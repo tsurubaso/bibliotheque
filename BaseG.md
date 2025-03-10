@@ -12,7 +12,6 @@ timelineEnd: 2024-02-01
 ---
 
 # Base G
-## Auteur : Tsurubaso
 
 On écrit souvent pour faire vivre quelque chose d’amusant, drôle, de réjouissant. Ce qu’on a en soi et qui nous fait du bien. Enfin, le faire sortir, le partager, quelques couleurs qu’il ait, procure une détente.
 Stephen King terrifie mais en même temps dans l’horreur on retrouve le goût si particulier d’un passé dans lequel on a été enfant.

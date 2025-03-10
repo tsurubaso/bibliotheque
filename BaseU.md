@@ -12,7 +12,7 @@ timelineEnd: 2024-02-01
 ---
 
 # U base
-## Auteur : Tsurubaso
+
 
 Quand Ticko était revenu avec sa lampe de chantier. Il n'avait plus allumé son visualisateur 3d. Sa visualisation prendrait, Les nuages de points avaient de drôles d'artefacts sur les colonnes. Seul le faisceau de lumière éclairait la salle jusqu'à des distances où la puissance de la lampe n'était plus suffisante. il s'approcha du pilier le plus proche de l'entrée. Il entendait des piaillements des robots qui derrière lui l'observaient. Ces derniers se sentaient délaissés et ne savaient comment interagir avec ce grand espace vide dans lequel leur programmation leur interdisait d'entrer. Première observation, pas ou peu de poussière. 2e observation, les piliers étaient en verre! 
 Ce qui était complètement impensable structurellement.  Il y avait eu quelques tentatives artistiques, mais le matériel par essence était trop fragile.  Les piliers étaient transparents, légèrement opaques. La lumière les traversait, sauf au coin. Les côtés, plutôt les arêtes, étaient dans un alliage métallique. 

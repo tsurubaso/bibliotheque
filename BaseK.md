@@ -13,7 +13,7 @@ timelineEnd: 2024-02-01
 
 
 # Base K fragments
-## Auteur : Tsurubaso
+
 
 Il était venu boire un verre d’eau. Il avait mal à la tête, les deux garçons qui sortaient en poussant cette porte si bruyante ne firent pas attention à lui.   
 –Tu savais que si c’est nécessaire, en dernier recours, on peut dépressuriser la serre et tout le contenu est évacué dans l’espace, derrière les réacteurs.

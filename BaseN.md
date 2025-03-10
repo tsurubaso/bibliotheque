@@ -12,7 +12,7 @@ timelineEnd: 2024-02-01
 ---
 
 # Base N
-## Auteur : Tsurubaso
+
 
 
 

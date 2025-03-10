@@ -12,7 +12,7 @@ timelineEnd: 2024-02-01
 ---
 
 # Une Histoire sans l’histoire 3
-## Auteur : Tsurubaso
+
 
 
 Notes sur une vie ailleurs:

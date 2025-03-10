@@ -12,7 +12,6 @@ timelineEnd: 2024-02-01
 ---
 
 # Base P
-## Auteur : Tsurubaso
 
 
 La salle d’attente, une salle d’attente comme on pourrait en imaginer partout, comme on pourrait en voir aujourd’hui. Des chaises simples, pas spécialement confortables, la porte du médecin, plus loin l’accueil où l’on voit deux infirmières assises derrière le pupitre à pianoter, le visage éclairé par leurs écrans. Une lumière blanche assez forte, une salle d’attente quoi.
