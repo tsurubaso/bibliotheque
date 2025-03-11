@@ -6,9 +6,9 @@ type: SF Futuristique
 description: Un homme regarde sous lui une forêt, sa petite amie le rejoint...
 status: story
 link: BaseB
-lecture: 1
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+lecture: 2
+timelineStart: 2225-01-12
+timelineEnd: 2225-01-12
 ---
 
 # Base B

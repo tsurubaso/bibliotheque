@@ -6,9 +6,9 @@ type: SF Futuristique
 description: courte réflection sur l'ordre et le désordre dans l'espace au cinéma
 status: story
 link: BaseC
-lecture: 1
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+lecture: 2
+timelineStart: 
+timelineEnd: 
 ---
 
 # Base C

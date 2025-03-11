@@ -6,21 +6,21 @@ type: SF Futuristique
 description: La vieille dame du jardin des Batignolles
 status: story
 link: BaseG
-lecture: 1
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+lecture: 2
+timelineStart: 2150-07-01
+timelineEnd: 2150-07-02
 ---
 
 # Base G
 
-On écrit souvent pour faire vivre quelque chose d’amusant, drôle, de réjouissant. Ce qu’on a en soi et qui nous fait du bien. Enfin, le faire sortir, le partager, quelques couleurs qu’il ait, procure une détente.
+On écrit souvent pour faire vivre quelque chose d’amusant, de drôle, de réjouissant. Ce qu’on a en soi et qui nous fait du bien. Enfin, le faire sortir, le partager, quelques couleurs qu’il ait, procure une détente.
 Stephen King terrifie mais en même temps dans l’horreur on retrouve le goût si particulier d’un passé dans lequel on a été enfant.
 Un kiosque sous la neige, une maison en feu, un candidat qui ne deviendra jamais président à cause de sa lâcheté.
 Certains, surtout ceux qui utilisent le « je » parlent en changeant légèrement les noms d’eux-mêmes et de leurs proches. Parce que le souvenir est un art abstrait, un cubisme, qui n’intègre la réalité qu’à faible pourcentage.
 La biographie est pour moi un sport dangereux. J’admire le courage de ceux qui s’y montrent comme ils sont et c’est ce qu’on aime je crois, retrouver de l’humain, des personnages fins mais pas naïfs, pas toujours bon parfois sournois mais toujours trompés par l’amour ou la colère. indécis, et troublés.
 Je voulais parler du parc des Batignolles avec sa fausse rivière, son monument bizarre, statue en béton de vautours, monument aux morts sûrement. Son manège aux chevaux vieillots. Il a dû être concassé depuis. Sa zone qui surplombait les rails de la gare St-Lazare. Un trottoir sans rue pour le patin ou la marelle. Les bancs devant l’étendue d’eau, dans le chemin qui descend de la fausse grotte. Même architecte que les Buttes-Chaumont ?
 La fosse serre toujours vide, kiosque à musique l’été. Je passe sur les saules pleureurs, les grands arbres dont j’ignore l’espèce mais facilement bicentenaires qui ombrageaient le pont qui laissait passer la fausse rivière. Le jardin d’enfant en contrebas. L’église toute proche et sa place avec ses cafés, trop chers, je n’y allais jamais. Je voulais vous parler d’une vieille dame, le meilleur mariage du souvenir, un petit square et une vieille dame à pigeons, elle allait parler à un enfant, un homme dans une crise spécifique, une jeune fille à un autre moment de sa vie.
-Je n’avais pas encore décidé à qui elle allait sur ce banc, à l’ombre ou au soleil, se mettre à parler. Je n’avais rien décidé sauf qui elle était et pourquoi elle était là. Je partais dans l’idée qu’elle n’était pas née sur terre mais dans cette ailleurs que je décris sans le nommer depuis quelques pages. Ça aurait été intéressant de partir d' un point de vue inversé. La vieille femme à la fin de sa vie regarde la nature, la beauté de l’existence, le courant d’eau, abondant, cet air qu’on ne porte pas sur soi, qui ne fait pas défaut mais surtout cette absence de la mort.
+Je n’avais pas encore décidé à qui elle allait sur ce banc, à l’ombre ou au soleil, se mettre à parler. Je n’avais rien décidé sauf qui elle était et pourquoi elle était là. Je partais dans l’idée qu’elle n’était pas née sur terre mais dans cette ailleurs que je décris sans le nommer depuis quelques pages. Ça aurait été intéressant de partir d'un point de vue inversé. La vieille femme à la fin de sa vie regarde la nature, la beauté de l’existence, le courant d’eau, abondant, cet air qu’on ne porte pas sur soi, qui ne fait pas défaut mais surtout cette absence de la mort.
 La peur, nous la créons. Les crimes, ce n’est que nous également. Quelle cause vaut d’être défendue avec votre vie ? Nous sommes finalement à part quelques uns assez protégés par une nature sensible à notre fragilité. C’est l’évidence que l’on oublie. 
 Notre vieille femme aurait remis en place en quelques mots l’enfant, le jeune homme ou l’adulte aveuglé par son égoïsme ou son confort vide de sens puisque possédant tout. Elle aurait alors parlé de là-haut, de la mort, de l’accident de 2067.
 J’aurais alors mélangé les images de cette femme parlant calmement posément, écoutée par l’autre protagoniste. Image estivale, plein de rires d’enfants et le récit de la dureté de cet ailleurs. Sas fermé automatiquement, hermétiquement, la mort de l’autre, amie comme elle, sœur, mère ou parent. Explosions et paysages qui s’effondrent, dégringolant vers le haut. Elle, restée à pleurer de l’autre côté du sas, le bon côté.

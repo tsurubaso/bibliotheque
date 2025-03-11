@@ -7,8 +7,8 @@ description: Le forage d'une cavité, des machines monstrueuses, et la découver
 status: story
 link: BaseA
 lecture: 2
-timelineStart: 2225-01-01
-timelineEnd: 2225-12-01
+timelineStart: 2225-01-10
+timelineEnd: 2225-01-11
 ---
 
 # Base A

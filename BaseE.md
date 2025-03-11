@@ -6,9 +6,9 @@ type: SF Futuristique
 description: ADN, génétique et épigénétique
 status: fragment
 link: BaseE
-lecture: 1
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+lecture: 2
+timelineStart: 
+timelineEnd: 
 ---
 
 
