@@ -4,13 +4,13 @@ text_author: Tsurubaso
 title: Base H
 type: SF Futuristique
 description: La Bibliothèque Sainte-Geneviève et quelques souvenirs égoistes.
-status: draft
+status: fragment
 link: BaseH
 lecture: 0
 timelineStart: 
 timelineEnd: 
 ---
-
+# Base H
 
 Est-ce que vous connaissez la Bibliothèque Sainte-Geneviève? pendant un temps j'habitais rue Soufflot une très belle bâtisse haussmannienne...tiens! Je ne me souviens plus du numéro. Au départ dans une chambre qui avait été soufflé par un obus allemand pendant la Première Guerre mondiale, au dernier étage, une chambre de bonne. J'étais au cœur de Paris dans le quartier latin devant le jardin du Luxembourg au pied du Panthéon, mon frère n'habitait pas loin non plus. J'avais un futon avant même de m'intéresser au Japon, plutôt matelas fin sur une palette de chantier. J'avais fui le boulevard Sébastopol. La chambre de bonne était petit mais vivable, une fenêtre italienne, un vasistas plutôt qui ne prend pas son nom à une quelconque occupation allemande. Du moins pas celle de 1940, mais bien avant. Le velux donnait sur la rue Soufflot. Qu'on ne voyait pas, on l'entendait. On avait un carré de ciel bleu, cette pluie chaude du septembre parisien, lors de lecture de Natsume Soseki:"Wagaiwa Neko de aru". Un lit donc, une petite table de chevet, lae Palace était louée meublée. Au retour du Japon j'avais dû déménager dans la chambre d'en face, beaucoup plus petit. Lit Breton, plutôt pente du toit, un mètre carré, un velux encore et un lavabo
 mais essentiellement c'était chez mon frère que j'allais. Il avait loué l'appartement juste à côté du mien. On mangait ensemble. Il me disait que ça serait le seul moment de notre vie où on allait vivre si proches l'un de l'autre et finalement, c'était vrai. Je suis parti vivre sur un coup de tête mal préparé au Japon et me voilà 24 ans plus tard, 25 ans à la relecture/correction du texte. Pour revenir à ma chambre, j'y avais ajouter des photos en noir et blanc, argentiques, prises avec un vieux Minolta. Moi, les cheveux rasés, et devant moi les cartes de tarot. On était à 3 minutes de la Sorbonne que je voyais si j'ouvrais la fenêtre de cette deuxième chambre. Les voitures aussi avaient été remplacées par des cris d'enfants. Une maternelle n'était pas loin. La Sorbonne était si proche que j'étais constamment en retard en cours. Je n'avais plus de motivation. Nous avions été expulsés de Sébastopol. Mais je ne suis pas ici pour faire un épigramme, une épigraphe mais surtout pas une épitaphe et pardonnez-moi du peu. Il n'y a pas grand-chose à en dire de mon passé sauf qu'il est à moi, rien qu'à moi. Il suffit juste de faire une sélection dans ses souvenirs pour vêtir le présent d'habits plus chauds, plus colorés. J'habitais à quelques minutes du Luxembourg et si un jour j'avais plus d'occasions de sombrer dans le "je" narcissique, j'aurais bien des ensoleillements et des reflets brillants du grand bassin à vous faire partager. Les longs cafés, interminables de ce temps si précieux, sacrifié à attendre, à parler, à la terrasse d'un des cafés de la place de la Sorbonne.    

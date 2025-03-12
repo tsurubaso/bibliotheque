@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Comme un enfant gaté
 type: Essai
 description: bla
-status: draft
+status: other
 link: commeunenfantgate
 lecture: 0
 timelineStart: 2024-01-01

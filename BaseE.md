@@ -11,10 +11,6 @@ timelineStart:
 timelineEnd: 
 ---
 
-
-
-
-
 # Base E fragments 
 
 

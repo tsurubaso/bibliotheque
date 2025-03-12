@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Sans sérif 1
 type: Essai
 description: Une réflection un peu mouillée, deux, trois idées
-status: fragment
+status: other
 link: sansserif1
 lecture: 0
 timelineStart: 2024-01-01

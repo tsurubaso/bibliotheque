@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Audrey 2
 type: SF Futuristique
 description: J'avais fait ce texte avant Chatgpt, avant Deepseek ou Mistral. Quel serait l'intérêt d'une I.A. ça, c'est la deuxième partie.
-status: story
+status: other
 link: Audrey2
 lecture: 1
 timelineStart: 2024-01-01

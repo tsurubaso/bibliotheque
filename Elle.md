@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Elle
 type: SF Futuristique
 description: Je ne me souviens pas
-status: story
+status: other
 link: Elle
 lecture: 1
 timelineStart: 2024-01-01
