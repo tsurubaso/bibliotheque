@@ -6,7 +6,7 @@ type: SF Futuristique
 description: essai dans l'horreur
 status: fragment
 link: BaseK
-lecture: 1
+lecture: 2
 timelineStart: 2024-01-01
 timelineEnd: 2024-02-01
 ---
