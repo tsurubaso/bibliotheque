@@ -7,8 +7,8 @@ description: Bon, c'est le template mais je veux voir ce que ça donne donc prov
 status: tech
 link: techexample
 lecture: 1
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+timelineStart: 
+timelineEnd: 
 
 items:
   - id: 1
