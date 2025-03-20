@@ -1,4 +1,4 @@
-                                                                       ---
+---
 illu_author: null
 text_author: Tsurubaso
 title: Base N
