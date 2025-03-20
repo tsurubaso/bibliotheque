@@ -7,8 +7,8 @@ description: 9 octobre 2067
 status: story
 link: BaseL
 lecture: 2
-timelineStart: 2024-01-01
-timelineEnd: 2024-02-01
+timelineStart: 
+timelineEnd: 
 ---
 
 # Base L
