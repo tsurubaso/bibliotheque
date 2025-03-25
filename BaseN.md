@@ -6,7 +6,7 @@ type: SF Futuristique
 description: un peu en désorde mais de bonnes idées, space mining, un empire spacial, utilisations des ressources lunaires...
 status: draft
 link: BaseN
-lecture: 0
+lecture: 2
 timelineStart: 
 timelineEnd: 
 ---

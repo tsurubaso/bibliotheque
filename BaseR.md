@@ -6,7 +6,7 @@ type: SF Futuristique
 description: le monstre
 status: draft
 link: BaseR
-lecture: 0
+lecture: 2
 timelineStart: 
 timelineEnd: 
 ---
