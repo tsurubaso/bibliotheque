@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base N
 type: SF Futuristique
 description: un peu en désorde mais de bonnes idées, space mining, un empire spacial, utilisations des ressources lunaires...
-status: draft
+status: story
 link: BaseN
 lecture: 0
 timelineStart: 

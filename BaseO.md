@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base O
 type: SF Futuristique
 description: La navette de transport
-status: draft
+status: story
 link: BaseO
 lecture: 0
 timelineStart:
