@@ -6,7 +6,7 @@ type: SF Futuristique
 description: le future de l'industrie minière, et l'hôtel du cratère
 status: story
 link: BaseM
-lecture: 1
+lecture: 2
 timelineStart:
 timelineEnd: 
 ---
