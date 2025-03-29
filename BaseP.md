@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base P
 type: SF Futuristique
-description: L&amour nécessaire dans une pièce vivante
+description: La description d'un amour naissant dans une salle d'attente aidé par un AI
 status: draft
 link: BaseP
 lecture: 2
