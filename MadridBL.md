@@ -1,7 +1,7 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: Madrid dans les années 80 BL Madrid BL
+title: Madrid dans les années 80 BL 
 type: SF Futuristique
 description: Une riche héritière, Vanessa, et comment après une folie, elle doit rejoindre...
 status: draft
