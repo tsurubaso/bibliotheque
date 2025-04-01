@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base R
 type: SF Futuristique
 description: le monstre
-status: draft
+status: story
 link: BaseR
 lecture: 2
 timelineStart: 

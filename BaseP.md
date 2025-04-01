@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base P
 type: SF Futuristique
 description: La description d'un amour naissant dans une salle d'attente aidé par un AI
-status: draft
+status: story
 link: BaseP
 lecture: 2
 timelineStart: 
