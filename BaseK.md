@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Base K
 type: SF Futuristique
 description: essai dans l'horreur
-status: fragment
+status: story
 link: BaseK
 lecture: 2
 timelineStart: 
