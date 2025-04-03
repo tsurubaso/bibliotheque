@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Trois touristes T
 type: SF Futuristique
-description: "bla, bla bla bla"
+description: "Trois touristes, chacun face au miroir de leur chambre, une présentation de personnages"
 status: story
 link: TroisTouristesT
 lecture: 2
