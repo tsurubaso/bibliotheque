@@ -1,17 +1,17 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: Base Y
+title: Trois Touristes Y
 type: SF Futuristique
-description: "Tour de lumière, serres italiennes et les mystères de l'unité centrale"
+description: "Trois Touristes, Tour de lumière, serres italiennes et les mystères de l'unité centrale"
 status: draft
-link: BaseY
+link: TroisTouristesY
 lecture: 0
 timelineStart: 
 timelineEnd: 
 ---
 
-# Base BY
+# Trois Touristes Y
 
 
 

@@ -3,7 +3,7 @@ illu_author: null
 text_author: Tsurubaso
 title: Base U
 type: SF Futuristique
-description: "De retour du chantier, il d'endors chez ses parents et fait un rêve"
+description: "De retour du chantier, il d'endort chez ses parents et fait un rêve"
 status: story
 link: BaseU
 lecture: 2
