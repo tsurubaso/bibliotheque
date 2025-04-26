@@ -231,3 +231,55 @@ Et puis à quoi bon, j’étais un vieillard. Sans réelle influence, seulement 
 Il s’assit doucement, tirant la chaise sans faire le moindre bruit. Sans dire un mot pendant quelques secondes. Enfin ce café sur la place rouge, enfin…
 Et je lui dis : « Quoi de neuf Alexandre ? ».
 
+
+
+Quoi de neuf Alexandre  
+Lill est partie avec sa foule de Bodyguards. Je suis seul maintenant sur la place Rouge à boire 
+mon café au lait. Très bon d’ailleurs.
+ À regarder les gens qui passent. Les uns perdus dans leurs affaires, les autres qui me dévisagent 
+brièvement avant de m’oublier à jamais.
+ Qui aurait pu penser que la Russie puisse en arriver là. De ce pays fier, mais toujours présent, Elle
+ est devenue cette ombre d’elle-même. Un rayon de soleil dans les nuages, le cliquetis de ma 
+cuillère dans la tasse. Les matins russes sont frais, mais qui peut résister au plaisir d’une terrasse. 
+Je suis vieux maintenant.
+ La prochaine personne qui devrait venir, c’est mon bon vieil ami Alexandre. Ou Alexander. Je n’ai 
+jamais su vraiment comment l’appeler.
+ Je n’ai jamais su non plus quel était son vrai métier.
+ Il avait toujours gardé et conservé la ligne de la propagande. Et je ne vais pas partir dans les 
+détails de cette dernière. Mais il avait toujours été poli et sympathique. Agréable dans la 
+contradiction. Il me rappelait à l’ordre quand je m’emportais. Et moi je lui disais toujours ce que 
+j’avais dans le ventre. Et je ne sais pas si c’était vrai de son côté mais j’étais toujours ravi de lire 
+ses commentaires qui étaient en règle générale en complète contradiction avec ce que je disais. 
+Mais qui n’aime pas un vrai contradicteur. 
+Oui je l’aimais bien, j’espérais seulement que de son côté, c’était la même chose.
+ Toute cette guerre était finie, le pays à reconstruire. Les autres hommes politiques que je devrais 
+rencontrer dans la suite de la semaine faisaient de leur mieux.
+ je vais les rencontrer au même endroit d’ailleurs.
+ Notre ami Alexandre tarde.
+ Je me recommande un café, le café au lait était excellent, mais revenons aux classiques.
+Je compris assez vite qu’ Alexandre allait arriver, sur ma droite et sur ma gauche des armoires à 
+glace, expression française pour dire des hommes très musclés, s’étaient postés à différents 
+endroits stratégiques, tous ayant dans leur ligne d’observation la terrasse du café. Ce bon vieil 
+Alexandre pensait toujours que je travaillais pour les officines américaines. J’en ris encore.
+ Il n’avait jamais compris pourquoi j’écrivais tant pour un pays étranger, avec lequel je n’avais 
+aucun lien.
+ Enfin, pour des pays étrangers. 
+On fait souvent des choses à l’encontre de ses intérêts personnels. Et j’étais un bon exemple. Rien
+ ni personne ne m’avait forcé à écrire. Et j’en avais déjà perdu un job d’ailleurs. Parce que oui, 
+écrire ça prend du temps. 
+J’hésite à me recommander un croissant, mais là, je veux dire pour le croissant, le talent était 
+beaucoup moins partagé que pour le café, j’allais peut-être me laisser tenter par les pâtisseries 
+locales. Notre ami avait dû monter en grade. Après la grande débâcle causée par la « réduction du
+ problème ». Il devait y avoir eu de sérieux remaniement. Peut-être dans 100 ans on saura ce qui 
+s’est vraiment passé. Mais la réorganisation du personnel au Kremlin avait été assez brutale. 
+C’était lui, un homme s’approchait, il devait avoir une dizaine d’années de moins que moi. Le 
+temps avait passé sur lui aussi. C’était la première fois que je voyais son visage. J’avais toujours 
+un petit peu d’angoisse quand même, mais bon la guerre était finie. Le pays à reconstruire. Dans 
+ces temps où la Russie n’avait que le poids de son prestige, même un interlocuteur comme moi 
+était bon à prendre.
+ Les ennemis d’hier sont toujours les amis d’aujourd’hui.
+ Et puis à quoi bon, j’étais un vieillard. Sans réelle influence, seulement la nostalgie du passé. Pas 
+un danger ou une nuisance. La Russie avait changé, en bien...Peut-être.
+ Il s’assit doucement, tirant la chaise sans faire le moindre bruit. Sans dire un mot pendant 
+quelques secondes. Enfin ce café sur la place rouge, enfin…
+ Et je lui dis : « Quoi de neuf Alexandre ? ».
