@@ -1,4 +1,3 @@
-
 ---
 illu_author: null
 text_author: Tsurubaso
@@ -10,7 +9,6 @@ link: WeekendSurTerreAV
 lecture: 0
 timelineStart: 
 timelineEnd: 
-
 ---
 
 # Weekend Sur Terre AV
