@@ -1,18 +1,17 @@
 ---
-illu_author : null
-text_author : Tsurubaso
-title : Base N
-type : SF Futuristique
-description : un peu en désordre mais de bonnes idées, space mining, un empire spacial, utilisations des ressources lunaires…
-status : story
-link : BaseN
-lecture : 2
-timelineStart :
-timelineEnd :
+illu_author: null
+text_author: Tsurubaso
+title: Base N 
+type: SF Futuristique
+description: un peu en désordre mais de bonnes idées, space mining, un empire spacial, utilisations des ressources lunaires…
+status: story
+link: BaseN
+lecture: 2
+timelineStart: 
+timelineEnd: 
 ---
 
 # Base N
-
 
 
 Bon, il n’avait pas de conclusion. Toujours le dos courbé, l’écran allumé cette fois sur un « Purpose of request for proposal ».   
