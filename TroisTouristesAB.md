@@ -7,8 +7,8 @@ description: "Ici on ne parle presque pas des trois touristes, on parle surtout 
 status: fragment
 link: TroisTouristesAB
 lecture: 0
-timelineStart: 15/01/2134
-timelineEnd: 
+timelineStart: 2134-01-15
+timelineEnd: 2134-01-15
 ---
 # Trois touristes AB
 
