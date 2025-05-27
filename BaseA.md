@@ -8,10 +8,11 @@ status: story
 link: BaseA
 lecture: 2
 timelineStart: 2225-01-10
-timelineEnd: 2225-01-11
+timelineEnd: 
+
 ---
 
-# Base A
+#Base A
 
 
 L’essentiel du forage se faisait par ces machines. Il y en avait un nombre toujours évoluant au gré des années, au gré des chantiers, au gré des réparations. Solides et résistants, ces robots allaient du tunnelier, souvent le dernier à intervenir, aux foreuses en passant par d’autres modèles intermédiaires. Pour la Foreuse, les designers de ce monstre avait dû être touché par la grâce. Lycosa Tarantula, Theraphosa Blondi, Salticidae.

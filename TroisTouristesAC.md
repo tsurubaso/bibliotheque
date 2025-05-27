@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Trois touristes AC
 type: SF Futuristique
 description: "Les trois touristes, l'Opéra Garnier là-haut"
-status: draft
+status: fragment
 link: TroisTouristesAC
 lecture: 0
 timelineStart: 

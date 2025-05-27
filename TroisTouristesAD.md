@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Trois touristes AD
 type: SF Futuristique
 description: "Envolée lyrique, le pourquoi de cette histoire"
-status: draft
+status: fragment
 link: TroisTouristesAD
 lecture: 0
 timelineStart: 
