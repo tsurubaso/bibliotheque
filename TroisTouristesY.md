@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Trois Touristes Y
 type: SF Futuristique
 description: "Trois Touristes, Tour de lumière, serres italiennes et les mystères de l'unité centrale"
-status: draft
+status: fragment
 link: TroisTouristesY
 lecture: 1
 timelineStart: 

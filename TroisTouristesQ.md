@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: Trois touristes Q
 type: SF Futuristique
 description: "présentation des trois personnesges, leur départ de la terre, un vieux beau encore efficace, un salaryman japonais, et une passionnée turque"
-status: story
+status: fragment
 link: TroisTouristesQ
 lecture: 2
 timelineStart: 
