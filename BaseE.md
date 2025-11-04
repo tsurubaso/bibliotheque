@@ -13,6 +13,7 @@ timelineEnd:
 
 # Base E fragments 
 
+test to see if saving is working
 
 Le séquençage du génome humain.
 Seuls 2 % de notre ADN est destiné au codage des protéines qui créent nos cellules. 2 % ! C’est à peu près la même chose pour le ver de terre. Au 98 % restant on a attribué un nom moins romantique et brumeux, la matière noire. Résidu de l’évolution, gènes brisés, reliquat d’anciennes transformations avortées. Avec le temps, on a compris que beaucoup servaient à régler la production de ces protéines en fonction du milieu. Cette matière noire ne modifierait pas l’ADN mais les conditions de son expression.
