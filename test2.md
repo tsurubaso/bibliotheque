@@ -1,11 +1,11 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: Test de travail
+title: Test de travail2
 type: fragment
 description: "Travail sur merge/save"
 status: fragment
-link: test
+link: test2
 lecture: 0
 timelineStart: 
 timelineEnd: 
