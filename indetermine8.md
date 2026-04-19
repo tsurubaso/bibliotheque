@@ -1,1 +1,16 @@
+---
+illu_author: null
+text_author: Tsurubaso
+title: indetermine 8
+type: SF Futuristique
+description: indetermine8
+status: fragment
+link: indetermine8
+lecture: 0
+timelineStart: 
+timelineEnd: 
+---
+
+
+
 Alors attention c'est la suite et la fin de du petit enregistrement ça va pas être long il faut que tu retrouves l'enregistrement du voyage dans le paysage lyonnais des des de des aventuriers on pourra imaginer l'origine mystérieuse du jeune homme aux yeux jaunes j'ai été trouvée ici regardant le dallage usé de l'église, de la maison troglodyte, avec ou sans les corps sans vie de ses parents ou de juste la mer, petit moment des adieux de la mer ou bébé, se sachant condamné écrivons un mot et laissant un message dans la langue indéchiffrable habit trahissant une origine ethnique différentes, ou mystérieuse. La mère des yeux ouverts yeux jaunes. L'enfant pleurant à son côté. Je les vois dodelinant dans un dans une garrigue semi désertique oui je sais plus Marseille que Lyon mais bon enfin elle elle chevauche en amazone donc le doline on doit avoir une forme particulière ils entrent dans un temple païen à flanc de falaise abandonné ou occupé à moitié détruit par la guerre maquillée en Église réminiscence ancien est isolé d'un culte caché mais bon vous avez bien compris la limitation de l'imagination. C'est une répétition donc il faudra que tu effaces certaines parties
